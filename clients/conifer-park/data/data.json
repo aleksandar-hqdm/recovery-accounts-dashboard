@@ -1,0 +1,604 @@
+{
+  "snapshot": {
+    "eyebrow": "HQDM Search Intelligence · Prepared by Aleksandar Spasevski",
+    "title": "Conifer Park",
+    "short_name": "Conifer Park",
+    "subtitle": "Q2 2026 · Capital Region NY · 7 locations · Client Snapshot",
+    "footer": "Client snapshot · Q2 2026 · Prepared by Aleksandar Spasevski",
+    "exec_html": "<p>The last six to nine months tell a quiet but real <strong>quality story</strong>: Conifer Park now holds <strong>#1 or #2 in the Map Pack at all seven locations</strong>, the Glenville flagship gained <strong>+19 top-10 grid cells</strong> Feb→Apr, Troy added <strong>+107 top-10 cells</strong> Apr→May, and Maps clicks climbed from ~700/mo to a <strong>March peak of 1,099</strong>. Form-submit leads have held steady even as blog-driven organic sessions softened, lifting <strong>organic conversion rate from 0.4% (Q3 '25) to ~1.0% (Q1 '26)</strong>. The watch point is the post-migration decline in non-brand blog traffic, which the Q2 plan directly addresses through Plattsburgh-template replication, service-page un-geo-lock, and architectural cleanup.</p>",
+    "chips": [
+      {
+        "v": "7 / 7",
+        "l": "pins #1–2 on Maps",
+        "good": true
+      },
+      {
+        "v": "+19 / +107",
+        "l": "Glenville / Troy top-10 cells",
+        "good": true
+      },
+      {
+        "v": "0.4% → 1.0%",
+        "l": "organic CVR (Q3'25 → Q1'26)",
+        "good": true
+      }
+    ],
+    "line": {
+      "labels": [
+        "Dec '25",
+        "Jan '26",
+        "Feb '26",
+        "Mar '26",
+        "Apr '26"
+      ],
+      "visitors": [
+        5657,
+        5956,
+        4596,
+        5594,
+        4468
+      ],
+      "leads": [
+        45,
+        51,
+        40,
+        61,
+        44
+      ],
+      "visitors_label": "Organic visitors",
+      "leads_label": "Organic leads (form submits)",
+      "partial_index": -1,
+      "title": "Organic Visitors + Leads · Monthly (Dec 2025 → Apr 2026)",
+      "caption": "Sessions are softening as the older blog cluster loses rankings, but the lead line is roughly steady — meaning each visit is more likely to convert. Leads = form-submits; phone-call tracking is not yet wired (see note below)."
+    },
+    "boxes": [
+      {
+        "win": "Maps clicks · this month",
+        "cmp": "May MTD vs April",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Daily pace",
+            "d": "~42 / day",
+            "cls": "pos"
+          },
+          {
+            "m": "vs April (~33 / day)",
+            "d": "+27%",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Maps clicks · last 2 months",
+        "cmp": "Mar–Apr vs Jan–Feb",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Total",
+            "d": "2,077 vs 1,781",
+            "cls": "pos"
+          },
+          {
+            "m": "Period over period",
+            "d": "+17%",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Conversion rate",
+        "cmp": "Q3 '25 → Q1 '26",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Organic CVR",
+            "d": "0.39% → 0.94%",
+            "cls": "pos"
+          },
+          {
+            "m": "Roughly doubled",
+            "d": "across 3 quarters",
+            "cls": "pos"
+          }
+        ]
+      }
+    ],
+    "boxes_reading_html": "Sessions are softening as the old blog cluster loses rankings, but <strong>leads have held nearly flat, organic conversion rate has more than doubled, and Maps clicks are accelerating</strong> — visitors are more qualified, the on-site funnel is doing more work per visit, and the Google Business surface is absorbing more of the demand. May '26 is partial (MTD daily pace shown).",
+    "focus": [],
+    "calendar": {
+      "enabled": true,
+      "title": "3-Month Delivery Calendar",
+      "subtitle": "Jun → Aug 2026 · exact pages and on-page actions per month, sourced from GSC + site audit",
+      "months": [
+        "June 2026",
+        "July 2026",
+        "August 2026"
+      ],
+      "rows": [
+        {
+          "label": "Services",
+          "cap": "1–2 / month",
+          "cells": [
+            [
+              {
+                "u": "/services/addiction-treatment-program",
+                "k": "revamp",
+                "n": "un-geo-lock from /service/*-in-glenville-ny · network-wide hub"
+              },
+              {
+                "u": "/services/family-program",
+                "k": "revamp",
+                "n": "un-geo-lock · network-wide"
+              }
+            ],
+            [
+              {
+                "u": "/services/psychiatric-services",
+                "k": "revamp",
+                "n": "un-geo-lock · dual-diagnosis hub"
+              },
+              {
+                "u": "/outpatient/schenectady/",
+                "k": "revamp",
+                "n": "rebuild · MAT/Suboxone anchor (biggest market without HQDM GBP access)"
+              }
+            ],
+            [
+              {
+                "u": "/outpatient/rochester/",
+                "k": "revamp",
+                "n": "CRO-focused rebuild · 51K imp / pos 9.4 / 0.82% CTR (worst on site)"
+              },
+              {
+                "u": "/outpatient/glens-falls/",
+                "k": "revamp",
+                "n": "rebuild · HTML-encoding artifact fix + city-page template"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Blogs",
+          "cap": "5 / month · refresh",
+          "cells": [
+            [
+              {
+                "u": "/blog/signs-that-my-body-is-detoxing",
+                "k": "refresh",
+                "n": "122K imp · pos 12.3 (top click winner)"
+              },
+              {
+                "u": "/blog/how-long-do-alcoholics-live",
+                "k": "refresh",
+                "n": "40K imp · pos 8.9 · 1.5% CTR"
+              },
+              {
+                "u": "/blog/foods-to-eat-in-alcohol-detox",
+                "k": "refresh",
+                "n": "60K imp · pos 20.6 (position upside)"
+              },
+              {
+                "u": "/blog/pain-killers-and-alcohol",
+                "k": "refresh",
+                "n": "55K imp · pos 4.0 · 0.02% CTR (title rescue)"
+              },
+              {
+                "u": "/blog/is-gabapentin-addictive",
+                "k": "refresh",
+                "n": "63K imp · pos 5.3 · 0.03% CTR (title rescue)"
+              }
+            ],
+            [
+              {
+                "u": "/blog/get-rid-of-alcohol-breath",
+                "k": "refresh",
+                "n": "229K imp · pos 9.9 (highest imp on site)"
+              },
+              {
+                "u": "/blog/what-do-dreams-about-drugs-mean",
+                "k": "refresh",
+                "n": "149K imp · pos 6.2"
+              },
+              {
+                "u": "/blog/adderall-use-affect-your-kidneys",
+                "k": "refresh",
+                "n": "75K imp · pos 8.2"
+              },
+              {
+                "u": "/blog/amphetamines-affect-body-temperature",
+                "k": "refresh",
+                "n": "60K imp · pos 7.2"
+              },
+              {
+                "u": "/blog/the-history-of-xanax",
+                "k": "refresh",
+                "n": "63K imp · pos 6.0 · 0.09% CTR (title rescue)"
+              }
+            ],
+            [
+              {
+                "u": "/blog/does-acid-stay-in-your-spinal-cord",
+                "k": "refresh",
+                "n": "63K imp · pos 8.5"
+              },
+              {
+                "u": "/blog/how-long-does-kratom-last",
+                "k": "refresh",
+                "n": "53K imp · pos 12.9"
+              },
+              {
+                "u": "/blog/what-happens-if-someone-drinks-too-much-robitussin",
+                "k": "refresh",
+                "n": "52K imp · pos 10.5"
+              },
+              {
+                "u": "/blog/bloating-after-quitting-alcohol",
+                "k": "refresh",
+                "n": "55K imp · pos 14.3"
+              },
+              {
+                "u": "/blog/being-drunk-and-being-high",
+                "k": "refresh",
+                "n": "61K imp · pos 9.0"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Suburbs",
+          "cap": "3 / month",
+          "cells": [
+            [
+              {
+                "u": "/suburb/scotia-ny",
+                "k": "revamp",
+                "n": "27 clicks / 2.2K imp · Schenectady catchment"
+              },
+              {
+                "u": "/suburb/niskayuna-ny",
+                "k": "revamp",
+                "n": "real USGS town · re-enable from NOINDEX"
+              },
+              {
+                "u": "/suburb/rotterdam-ny",
+                "k": "revamp",
+                "n": "real USGS town · re-enable from NOINDEX"
+              }
+            ],
+            [
+              {
+                "u": "/suburb/latham-ny",
+                "k": "new",
+                "n": "Colonie / Albany suburb · net-new"
+              },
+              {
+                "u": "/suburb/colonie-ny",
+                "k": "new",
+                "n": "Albany metro · net-new"
+              },
+              {
+                "u": "/suburb/clifton-park-ny",
+                "k": "new",
+                "n": "Saratoga County · net-new"
+              }
+            ],
+            [
+              {
+                "u": "/suburb/saratoga-springs-ny",
+                "k": "new",
+                "n": "Saratoga County hub · net-new"
+              },
+              {
+                "u": "/suburb/cohoes-ny",
+                "k": "new",
+                "n": "Albany / Capital Region · net-new"
+              },
+              {
+                "u": "/suburb/watervliet-ny",
+                "k": "new",
+                "n": "Albany / Capital Region · net-new"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "On-page",
+          "cap": "per need",
+          "cells": [
+            [
+              {
+                "u": "Reverse Troy 301 → /outpatient/troy canonical",
+                "k": "redirect",
+                "n": "the URL Google indexes is the one we 301 away from (438c / pos 4.66)"
+              },
+              {
+                "u": "301 four cannibal URLs → canonicals",
+                "k": "redirect",
+                "n": "/serving-all-of-troy-ny · /professional-outpatient-rehab-in-troy-ny-cornifer-park · /rochester-review · /liverpoolreview"
+              },
+              {
+                "u": "GBP ↔ site URL gap audit (7 pins)",
+                "k": "fix",
+                "n": "today only Plattsburgh GBP points to its city page · the other 6 dump on homepage"
+              },
+              {
+                "u": "UTM landing repoint · Glenville + Troy GBPs",
+                "k": "fix",
+                "n": "gmb/click traffic starts splitting by location in GA4"
+              }
+            ],
+            [
+              {
+                "u": "Internal-link cluster reinforcement · M1 refreshed blogs",
+                "k": "fix",
+                "n": "3–5 contextual links per article → /admissions + /services/* hub + /outpatient/<city>/"
+              },
+              {
+                "u": "Per-page MedicalClinic schema · 7 outpatient pages",
+                "k": "fix",
+                "n": "replace duplicated global @graph blob with page-specific MedicalClinic + Place"
+              }
+            ],
+            [
+              {
+                "u": "Execute 71-suburb decision matrix",
+                "k": "fix",
+                "n": "NOINDEX 59 adjective-stuffed + 410 DELETE 12 non-USGS micro-hamlets"
+              },
+              {
+                "u": "Purge WordPress migration debris",
+                "k": "redirect",
+                "n": "/2013/* · /category/* · /author/matt · /admissions.html"
+              },
+              {
+                "u": "Page-level schema refactor complete · 16 URLs",
+                "k": "fix",
+                "n": "homepage + 6 outpatient + 6 service + about + admissions + contact through RRT"
+              }
+            ]
+          ]
+        }
+      ],
+      "note_html": "Sources: GSC pages_last_180d (blog impression + position picks), conifer_ld_delta_summary (Glenville priorities), Conifer_Park_Service_Pages_UnGeoLock.xlsx (service slugs), Conifer_Park_Suburb_Decisions.csv (suburb re-enable list). Out of scope per current engagement: reviews / Q&A management, GBP Posts cadence, citations / off-page. Tags: <span class=\"tag revamp\">revamp</span> existing page rebuild · <span class=\"tag new\">new</span> net-new page · <span class=\"tag refresh\">refresh</span> blog title + intro + FAQ schema + 2026 stats · <span class=\"tag redirect\">redirect</span> 301 / 410 / canonical · <span class=\"tag fix\">fix</span> technical on-page."
+    },
+    "maps": {
+      "enabled": true,
+      "title": "Maps Movement · Top Keywords",
+      "window": "Feb → Apr 2026 · 9 tracked searches",
+      "headers": [
+        "Search",
+        "Avg position",
+        "Top-3 map spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "outpatient rehab troy"
+            },
+            {
+              "t": "<span class=\"arrow-up\">1.74 → <strong>1.18</strong></span>"
+            },
+            {
+              "t": "168 → <strong>169</strong>"
+            },
+            {
+              "t": "+1",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug rehab troy"
+            },
+            {
+              "t": "<span class=\"\">2.00 → <strong>2.00</strong></span>"
+            },
+            {
+              "t": "168 → <strong>169</strong>"
+            },
+            {
+              "t": "+1",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "rehab upstate new york"
+            },
+            {
+              "t": "<span class=\"arrow-up\">2.83 → <strong>1.81</strong></span>"
+            },
+            {
+              "t": "136 → <strong>156</strong>"
+            },
+            {
+              "t": "+20",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug rehab near me"
+            },
+            {
+              "t": "<span class=\"arrow-up\">4.48 → <strong>3.92</strong></span>"
+            },
+            {
+              "t": "100 → <strong>110</strong>"
+            },
+            {
+              "t": "+10",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab"
+            },
+            {
+              "t": "<span class=\"arrow-up\">4.95 → <strong>4.55</strong></span>"
+            },
+            {
+              "t": "71 → <strong>84</strong>"
+            },
+            {
+              "t": "+13",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "rehab near me"
+            },
+            {
+              "t": "<span class=\"arrow-up\">6.57 → <strong>5.55</strong></span>"
+            },
+            {
+              "t": "38 → <strong>54</strong>"
+            },
+            {
+              "t": "+16",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": null
+    },
+    "competitors": {
+      "enabled": true,
+      "title": "Ground Vacated · Declining Competitors",
+      "window": "Glenville grid · Feb 21 → Apr 27, 2026 (9.4 weeks)",
+      "headers": [
+        "Business",
+        "Avg rank",
+        "Map cells",
+        "Change"
+      ],
+      "rows": [
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Conifer Park Glenville Inpatient (this GBP) (you)"
+            },
+            {
+              "t": "4.0"
+            },
+            {
+              "t": "584"
+            },
+            {
+              "t": "+19",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Sunnyview Rehabilitation Hospital"
+            },
+            {
+              "t": "7.1"
+            },
+            {
+              "t": "252"
+            },
+            {
+              "t": "-112",
+              "c": "muted"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "New Choices"
+            },
+            {
+              "t": "6.9"
+            },
+            {
+              "t": "215"
+            },
+            {
+              "t": "-86",
+              "c": "muted"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "St Marys Healthcare Outpatient (Amsterdam)"
+            },
+            {
+              "t": "7.8"
+            },
+            {
+              "t": "118"
+            },
+            {
+              "t": "-84",
+              "c": "muted"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Addictions Care Center of Albany"
+            },
+            {
+              "t": "11.2"
+            },
+            {
+              "t": "46"
+            },
+            {
+              "t": "-125",
+              "c": "muted"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Capital District Recovery Center"
+            },
+            {
+              "t": "12.5"
+            },
+            {
+              "t": "42"
+            },
+            {
+              "t": "-197",
+              "c": "muted"
+            }
+          ]
+        }
+      ],
+      "note_html": "Across the 4 Glenville Map Pack queries (rehab upstate NY, drug rehab near me, alcohol rehab, rehab near me), five mid-tier competitors lost meaningful map ground in the Feb–Apr window — and none holds high Map Pack exposure today. The cells they vacated are real freed-up SERP space, and Conifer Park has already absorbed some (+19). Lower avg rank is better."
+    }
+  }
+}

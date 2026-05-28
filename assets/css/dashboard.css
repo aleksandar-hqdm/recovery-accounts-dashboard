@@ -1,0 +1,78 @@
+/* HQDM Dashboards — shared styles */
+
+html { scroll-behavior: smooth; }
+body { font-feature-settings: "cv02", "cv03", "cv04", "cv11"; }
+
+/* Section anchor offset so sticky header doesn't cover headings */
+section[id] { scroll-margin-top: 72px; }
+
+/* Sentiment dots/borders */
+.sent-positive { border-color: rgb(16 185 129 / 0.4); background: rgb(236 253 245); }
+.sent-negative { border-color: rgb(239 68 68 / 0.4);  background: rgb(254 242 242); }
+.sent-neutral  { border-color: rgb(59 130 246 / 0.4); background: rgb(239 246 255); }
+
+.sent-dot { width: 8px; height: 8px; border-radius: 999px; display: inline-block; }
+.sent-dot.positive { background: #10b981; }
+.sent-dot.negative { background: #ef4444; }
+.sent-dot.neutral  { background: #3b82f6; }
+
+/* KPI tile interactions */
+.kpi-tile { transition: transform 120ms ease, box-shadow 120ms ease; cursor: pointer; }
+.kpi-tile:hover { transform: translateY(-2px); box-shadow: 0 8px 24px -8px rgba(11,37,69,0.18); }
+.kpi-tile .kpi-detail { max-height: 0; overflow: hidden; transition: max-height 240ms ease, padding 240ms ease; }
+.kpi-tile.open .kpi-detail { max-height: 220px; padding-top: 0.75rem; }
+
+/* Lever cards */
+.lever-card { transition: box-shadow 160ms ease; }
+.lever-card:hover { box-shadow: 0 6px 20px -8px rgba(11,37,69,0.18); }
+.lever-card .lever-body { max-height: 0; overflow: hidden; transition: max-height 320ms ease; }
+.lever-card.open .lever-body { max-height: 2800px; }
+.lever-card .chev { transition: transform 200ms ease; }
+.lever-card.open .chev { transform: rotate(90deg); }
+
+/* Lever color accents */
+.lever-amber  { border-left: 5px solid #f59e0b; }
+.lever-green  { border-left: 5px solid #10b981; }
+.lever-blue   { border-left: 5px solid #3b82f6; }
+.lever-indigo { border-left: 5px solid #6366f1; }
+.lever-purple { border-left: 5px solid #8b5cf6; }
+.lever-red    { border-left: 5px solid #ef4444; }
+
+.badge-amber  { background: #fef3c7; color: #92400e; }
+.badge-green  { background: #d1fae5; color: #065f46; }
+.badge-blue   { background: #dbeafe; color: #1e40af; }
+.badge-indigo { background: #e0e7ff; color: #3730a3; }
+.badge-purple { background: #ede9fe; color: #5b21b6; }
+.badge-red    { background: #fee2e2; color: #991b1b; }
+
+/* Maps presence row highlighting */
+tr.managed-pin    { background: rgb(236 253 245 / 0.6); }
+tr.pin-bleed      { background: rgb(255 247 237 / 0.6); }
+tr.zero-reach     { background: rgb(254 242 242 / 0.6); }
+
+/* Client highlight row in leaderboard */
+tr.is-client {
+  background: linear-gradient(90deg, rgb(219 234 254 / 0.6), rgb(219 234 254 / 0.2));
+  font-weight: 600;
+}
+tr.is-client td:first-child { border-left: 3px solid #1d5b8a; }
+
+/* Sortable headers */
+th[data-sort] { user-select: none; }
+th[data-sort].sort-asc::after  { content: " ▲"; opacity: 0.7; }
+th[data-sort].sort-desc::after { content: " ▼"; opacity: 0.7; }
+
+/* Print-friendly */
+@media print {
+  header, footer, .no-print { display: none !important; }
+  section { page-break-inside: avoid; }
+  body { background: white; }
+  .shadow-sm, .shadow { box-shadow: none !important; }
+  .bg-white { border: 1px solid #e5e7eb; }
+}
+
+/* Subtle scrollbar for overflow tables */
+::-webkit-scrollbar { height: 8px; width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(11,37,69,0.15); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(11,37,69,0.3); }

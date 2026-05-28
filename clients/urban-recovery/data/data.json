@@ -1,0 +1,527 @@
+{
+  "snapshot": {
+    "eyebrow": "HQDM Search Intelligence · Prepared by Aleksandar Spasevski",
+    "title": "Urban Recovery",
+    "short_name": "Urban Recovery",
+    "subtitle": "Q2 2026 · Brooklyn · Red Hook pin · Client Snapshot",
+    "footer": "Client snapshot · Q2 2026 · Prepared by Aleksandar Spasevski",
+    "exec_html": "<p>Urban Recovery <strong>held its Red Hook Maps grid while the market churned hard around it</strong> — you're the only Brooklyn addiction-treatment pin to gain net top-10 coverage this period (+21 cells across eight priority searches), holding 92.8% of the 1,344-cell grid. Your brand engine is strong (1,357 clicks at position 2.3). The biggest near-term lever is on-site: thousands of high-intent service-page queries already rank on page one and are ready to be sharpened into clearer paths to call and intake. Strengthening those service pages, fixing the homepage business-info mismatch, and a Google Business depth push are the priorities.</p>",
+    "chips": [
+      {
+        "v": "92.8%",
+        "l": "Maps grid held",
+        "good": true
+      },
+      {
+        "v": "+21",
+        "l": "top-10 cells vs churn",
+        "good": true
+      },
+      {
+        "v": "pos 2.3",
+        "l": "brand search",
+        "good": true
+      }
+    ],
+    "line": {
+      "labels": [
+        "Feb '26",
+        "Mar '26",
+        "Apr '26",
+        "May '26*"
+      ],
+      "visitors": [
+        2861,
+        3149,
+        4424,
+        5942
+      ],
+      "leads": [
+        2,
+        3,
+        10,
+        9
+      ],
+      "visitors_label": "Organic visitors",
+      "leads_label": "Organic leads (form_submit)",
+      "partial_index": 3,
+      "title": "Organic Performance · Monthly (Feb → May 2026)",
+      "caption": "Visitors (left axis) and leads (right axis) from organic search. A dashed tail marks the partial current month."
+    },
+    "boxes": [
+      {
+        "win": "Last 2 Months",
+        "cmp": "vs prior 2 mo",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+72%",
+            "cls": "pos"
+          },
+          {
+            "m": "Leads",
+            "d": "+280%",
+            "cls": "pos"
+          }
+        ]
+      }
+    ],
+    "boxes_reading_html": "",
+    "focus": [
+      {
+        "title": "GBP depth surge",
+        "color": "#10b981",
+        "body": "Defend Red Hook and diffuse outward with a Google Business depth push — posts, photos, services, Q&A."
+      },
+      {
+        "title": "Service-page rebuild",
+        "color": "#1d5b8a",
+        "body": "Rebuild the high-intent service pages that rank but don’t convert, and fix the homepage business-info mismatch."
+      },
+      {
+        "title": "Cross-borough location pages",
+        "color": "#6366f1",
+        "body": "Upgrade cross-borough location pages and clean up the thin, data-driven ones."
+      },
+      {
+        "title": "Counter category drift",
+        "color": "#f59e0b",
+        "body": "Push inpatient-rehab framing to counter the nursing-facility category drift pulling on those rankings."
+      }
+    ],
+    "calendar": {
+      "enabled": true,
+      "title": "3-Month Build Calendar · Exact pages & on-page actions",
+      "subtitle": "Jun → Aug 2026 · scope per month: 1–2 service pages · 5 blogs · 3 suburb pages · on-page as needed",
+      "months": [
+        "M1 · June 2026",
+        "M2 · July 2026",
+        "M3 · August 2026"
+      ],
+      "rows": [
+        {
+          "label": "Service pages",
+          "cap": "1–2 / mo",
+          "cells": [
+            [
+              {
+                "k": "refresh",
+                "u": "/admission-overview",
+                "n": "intake form + insurance + Medicaid sections (service hub)"
+              }
+            ],
+            [
+              {
+                "k": "revamp",
+                "u": "/services/alcohol-detoxification-service",
+                "n": "SP-01 full rebuild · pos 1–3 / near-zero CTR"
+              },
+              {
+                "k": "refresh",
+                "u": "/services/drug-detoxification-services",
+                "n": "visible-element edits · pos 1–4"
+              }
+            ],
+            [
+              {
+                "k": "revamp",
+                "u": "/services/opioid-detoxification-services",
+                "n": "SP-02 full rebuild · pos 1–3 / near-zero CTR"
+              },
+              {
+                "k": "new",
+                "u": "/services/medication-assisted-treatment-brooklyn",
+                "n": "MAT page build · captures MAT cluster"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Blog posts",
+          "cap": "5 / mo",
+          "cells": [
+            [
+              {
+                "k": "refresh",
+                "u": "/blog/detox-vs-rehab"
+              },
+              {
+                "k": "refresh",
+                "u": "/blog/what-is-inpatient-rehab",
+                "n": "Brooklyn inpatient framing (counter SNF drift)"
+              },
+              {
+                "k": "refresh",
+                "u": "/blog/withdrawal-symptoms-alcohol",
+                "n": "+ medical detox Brooklyn angle"
+              },
+              {
+                "k": "new",
+                "u": "/blog/what-to-expect-medical-detox-brooklyn"
+              },
+              {
+                "k": "new",
+                "u": "/blog/cost-of-rehab-without-insurance-nyc"
+              }
+            ],
+            [
+              {
+                "k": "refresh",
+                "u": "/blog/medication-assisted-treatment",
+                "n": "MAT Brooklyn angle"
+              },
+              {
+                "k": "refresh",
+                "u": "/blog/dual-diagnosis-treatment"
+              },
+              {
+                "k": "refresh",
+                "u": "/blog/medicaid-rehab-coverage",
+                "n": "Medicaid for detox Brooklyn framing"
+              },
+              {
+                "k": "new",
+                "u": "/blog/fentanyl-detox-brooklyn"
+              },
+              {
+                "k": "new",
+                "u": "/blog/short-term-vs-long-term-rehab-brooklyn"
+              }
+            ],
+            [
+              {
+                "k": "refresh",
+                "u": "/blog/lgbtq-addiction-treatment",
+                "n": "LGBTQ+-affirming Red Hook framing"
+              },
+              {
+                "k": "refresh",
+                "u": "/blog/women-in-recovery",
+                "n": "women-owned rehab Brooklyn framing"
+              },
+              {
+                "k": "refresh",
+                "u": "/blog/aftercare-planning"
+              },
+              {
+                "k": "new",
+                "u": "/blog/medicaid-detox-brooklyn"
+              },
+              {
+                "k": "new",
+                "u": "/blog/lgbtq-affirming-rehab-red-hook"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Suburb pages",
+          "cap": "3 / mo",
+          "cells": [
+            [
+              {
+                "k": "revamp",
+                "u": "/locations/red-hook-ny",
+                "n": "pin anchor · 1,679 words · pos 30 · 15 clicks 365d"
+              },
+              {
+                "k": "revamp",
+                "u": "/locations/carroll-gardens-red-hook",
+                "n": "814 words · pos 32.6"
+              },
+              {
+                "k": "revamp",
+                "u": "/locations/gowanus",
+                "n": "1,224 words · pos 22.6"
+              }
+            ],
+            [
+              {
+                "k": "revamp",
+                "u": "/locations/boerum-hill-ny",
+                "n": "adjacency · 1,686 words · pos 29.8 · 8 clicks 365d"
+              },
+              {
+                "k": "revamp",
+                "u": "/locations/park-slope-ny",
+                "n": "805 words · pos 30.1"
+              },
+              {
+                "k": "revamp",
+                "u": "/locations/recovery-center-in-sunset-park-ny",
+                "n": "highest-leverage · 1,722 words · pos 19.6 · 26 clicks 365d"
+              }
+            ],
+            [
+              {
+                "k": "revamp",
+                "u": "/locations/leading-rehab-center-in-downtown-brooklyn-ny",
+                "n": "cross-borough diffusion · pos 21.1"
+              },
+              {
+                "k": "revamp",
+                "u": "/locations/rehab-center-in-crown-heights-ny",
+                "n": "cross-borough diffusion · pos 23.0"
+              },
+              {
+                "k": "new",
+                "u": "/locations/williamsburg-ny",
+                "n": "cross-borough gap fill (0/8 cells today)"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "On-page",
+          "cap": "per need",
+          "cells": [
+            [
+              {
+                "k": "fix",
+                "u": "/",
+                "n": "HP-01 homepage schema · NAP telephone canonical (→ 646-347-1892)"
+              },
+              {
+                "k": "redirect",
+                "u": "13 zero-click /locations/* slugs → / (or /park-slope-ny)",
+                "n": "verbose-slug cleanup batch"
+              },
+              {
+                "k": "refresh",
+                "u": "/locations/brooklyn-heights-ny · /carroll-gardens-ny · /rehab-center-in-dumbo-ny",
+                "n": "LP-01 bleeding (title + intro + service links)"
+              },
+              {
+                "k": "fix",
+                "u": "Internal links · /admission-overview ↔ /services/* + Red Hook hub"
+              }
+            ],
+            [
+              {
+                "k": "refresh",
+                "u": "/services/benzodiazepines-detox-services · /services/short-term-residential-program",
+                "n": "visible-element edits + inpatient framing"
+              },
+              {
+                "k": "refresh",
+                "u": "/about-us · /reviews · /our-programs-overview · /contact · /insurance",
+                "n": "supporting-page CTR lift batch"
+              },
+              {
+                "k": "refresh",
+                "u": "/locations/rehab-center-in-new-lots-ny · /kensington-ny · /south-midwood-ny",
+                "n": "LP-01 bleeding (M2)"
+              },
+              {
+                "k": "fix",
+                "u": "Internal links · blog → service ladder + intake CTAs"
+              }
+            ],
+            [
+              {
+                "k": "fix",
+                "u": "Schema audit · Service + BreadcrumbList on upgraded /services/* + LocalBusiness on upgraded /locations/*"
+              },
+              {
+                "k": "fix",
+                "u": "GBP → site UTM consistency · ?utm_source=gmb on all GBP CTAs (defend the 1,045-click GBP→home path)"
+              },
+              {
+                "k": "fix",
+                "u": "Internal-link audit · /admission-overview hub → service ladder + Red Hook hub"
+              }
+            ]
+          ]
+        }
+      ],
+      "note_html": "Sourced from the Strategic Diagnosis 2026-05-18, the populated 3-month build plan, and live GSC + DataForSEO data. Service revamps target the page 1 / near-zero CTR queries from Section 06 (root-cause #1). Suburb-page upgrades follow the cross-borough diffusion path (Red Hook → Sunset Park → Downtown Brooklyn / Crown Heights). New blogs target gap topics in Tier B / Tier C buckets with documented NYC search intent. On-page actions sequence: M1 = foundation (schema, redirects, bleeding refreshes), M2 = supporting-page CTR lift, M3 = schema + link-graph audit."
+    },
+    "maps": {
+      "enabled": true,
+      "title": "Maps Movement · Top Keywords",
+      "window": "Jan 27 → Apr 22, 2026 · 8 tracked searches",
+      "headers": [
+        "Search",
+        "Avg position",
+        "Top-3 map spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab"
+            },
+            {
+              "t": "<span class=\"arrow-up\">5.71 → <strong>4.48</strong></span>"
+            },
+            {
+              "t": "45 → <strong>78</strong>"
+            },
+            {
+              "t": "+33",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug rehab"
+            },
+            {
+              "t": "<span class=\"arrow-up\">6.49 → <strong>5.64</strong></span>"
+            },
+            {
+              "t": "32 → <strong>56</strong>"
+            },
+            {
+              "t": "+24",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug rehab new york"
+            },
+            {
+              "t": "<span class=\"arrow-up\">4.14 → <strong>4.12</strong></span>"
+            },
+            {
+              "t": "95 → <strong>98</strong>"
+            },
+            {
+              "t": "+3",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug rehab brooklyn"
+            },
+            {
+              "t": "<span class=\"arrow-up\">2.07 → <strong>2.04</strong></span>"
+            },
+            {
+              "t": "168 → <strong>168</strong>"
+            },
+            {
+              "t": "0",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": null
+    },
+    "competitors": {
+      "enabled": true,
+      "title": "Competitor Movement · Maps",
+      "window": "Across 8 tracked searches · Jan 27 → Apr 22, 2026",
+      "headers": [
+        "Business",
+        "Avg rank",
+        "Top-3 spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Urban Recovery (Red Hook) (you)"
+            },
+            {
+              "t": "3.9"
+            },
+            {
+              "t": "1113"
+            },
+            {
+              "t": "+21",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Dynamite Youth Center (Midwood)"
+            },
+            {
+              "t": "2.7"
+            },
+            {
+              "t": "243"
+            },
+            {
+              "t": "−37",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "LSA Recovery – Crown Heights"
+            },
+            {
+              "t": "6.6"
+            },
+            {
+              "t": "146"
+            },
+            {
+              "t": "−38",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Wellbridge Drug & Alcohol Rehab NYC Outreach"
+            },
+            {
+              "t": "8.9"
+            },
+            {
+              "t": "229"
+            },
+            {
+              "t": "−39",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Addiction Treatment Brooklyn (delisted)"
+            },
+            {
+              "t": "—"
+            },
+            {
+              "t": "0"
+            },
+            {
+              "t": "−138",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": "You're the only Brooklyn addiction-treatment pin to gain net coverage this period (+21). The competitors above all lost ground in the same window — Addiction Treatment Brooklyn dropped off the Maps grid entirely; Wellbridge, LSA Recovery (Crown Heights), and Dynamite Youth Center each shed ~37–39 cells. Avg rank for the 4 competitors is the live DataForSEO Maps scan across the 8 priority searches (May 28). Lower avg rank is better."
+    }
+  }
+}

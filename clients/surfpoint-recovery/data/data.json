@@ -1,0 +1,632 @@
+{
+  "snapshot": {
+    "eyebrow": "HQDM Search Intelligence · Prepared by Aleksandar Spasevski",
+    "title": "Surfpoint Recovery",
+    "short_name": "Surfpoint Recovery",
+    "subtitle": "Q2 2026 · Coney Island · South Brooklyn · Client Snapshot",
+    "footer": "Client snapshot · Q2 2026 · Prepared by Aleksandar Spasevski",
+    "exec_html": "<p>Surfpoint is <strong>punching above its website</strong>. Your Google Business listing is the standout asset — average Maps rank <strong>1.47 with 96% top-3 coverage</strong> on the core alcohol-rehab search, a 4.8★ / 120-review profile (up 29 reviews in 16 days), and Google-Business clicks convert at 2.53% — roughly 8× the rest of organic. The website is the bottleneck: search impressions are down 79% as architecture issues and over-built pages drag. The plan cleans up the site, rebuilds the homepage and service pages, and protects the Google Business lead.</p>",
+    "chips": [
+      {
+        "v": "1.47",
+        "l": "Maps rank · 96% top-3",
+        "good": true
+      },
+      {
+        "v": "2.53%",
+        "l": "GBP conv (8× organic)",
+        "good": true
+      },
+      {
+        "v": "4.8★ / 120",
+        "l": "reviews (+29 in 16d)",
+        "good": true
+      }
+    ],
+    "quarters": {
+      "labels": [
+        "Dec '24",
+        "Q1 '25",
+        "Q2 '25",
+        "Q3 '25",
+        "Q4 '25",
+        "Q1 '26"
+      ],
+      "visitors": [
+        2199,
+        2127,
+        2550,
+        2688,
+        3003,
+        6675
+      ],
+      "leads": [
+        386,
+        443,
+        465,
+        464,
+        344,
+        412
+      ],
+      "visitors_label": "Organic visitors",
+      "leads_label": "GBP clicks → site",
+      "partial_index": null,
+      "title": "By Quarter · Organic visitors + GBP clicks"
+    },
+    "boxes": [
+      {
+        "win": "Year over Year",
+        "cmp": "Q1 2026 vs Q1 2025",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+214%",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Last 6 Months",
+        "cmp": "vs prior 6 mo",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+74%",
+            "cls": "pos"
+          }
+        ]
+      }
+    ],
+    "boxes_reading_html": "Organic traffic and Maps visibility are the clean signals this quarter. YoY compares the most recent complete quarter (Q1 2026) against the same quarter prior year — the current Q2 is partial. Conversion volume is understated by known GA4 tracking gaps (`gmb_click` 584/90d + `contact_form_submit` 61/90d not flagged as conversions), so absolute conversion counts are excluded from these comparisons.",
+    "focus": [],
+    "calendar": {
+      "enabled": true,
+      "title": "3-Month Delivery Calendar",
+      "subtitle": "Jun → Aug 2026 · exact pages + on-page actions per month. Cadence per HQDM scope: 1–2 services + 5 blogs + 3 suburbs / month, plus on-page per need (redirects, internal links, GBP wiring). Page selection sourced from Pages_Plan_M1-3 + Treatments_SubPages_BuildPlan + Suburb_Pages_3Month CSVs; additional blog refresh targets pulled from GSC pages_last_90d (on-topic addiction/medical queries, imp ≥ 50k, pos 4–15).",
+      "months": [
+        "Jun 2026",
+        "Jul 2026",
+        "Aug 2026"
+      ],
+      "rows": [
+        {
+          "label": "Services",
+          "cap": "1–2 / month",
+          "cells": [
+            [
+              {
+                "u": "/treatments/alcohol-detox",
+                "k": "new",
+                "n": "Wave 1 · 4,583 mo search vol · map-pack 1.47 / 96% top-3 already won · /services/alcohol-detox-services 301 lands here"
+              },
+              {
+                "u": "/treatments/dual-diagnosis",
+                "k": "new",
+                "n": "Wave 1 · KD 2.9 (lowest in entire kw universe) · closes LLM citation gap on dual-diagnosis-brooklyn"
+              }
+            ],
+            [
+              {
+                "u": "/treatments/opioid-detox-mat",
+                "k": "new",
+                "n": "Wave 2 · MAT cluster KD 3.3 effective geo-only · top-3 SERP is all OUTPATIENT — uncontested inpatient surface"
+              },
+              {
+                "u": "/treatments/short-term-rehab",
+                "k": "new",
+                "n": "Wave 2 · only Urban Recovery ranks in top-12 · 60-day top-15 target validates universal template"
+              }
+            ],
+            [
+              {
+                "u": "/treatments/drug-detox",
+                "k": "new",
+                "n": "Wave 3 · 6,130 mo search vol · KD 46.9 hardest cluster — built last for internal-link backing from 4 prior sub-pages"
+              },
+              {
+                "u": "/treatments/benzodiazepine-detox",
+                "k": "new",
+                "n": "Wave 3 · 1,925 imp/365d orphan capture from /services/benzodiazepine-detox-services 301"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Suburbs",
+          "cap": "3 / month",
+          "cells": [
+            [
+              {
+                "u": "/locations/bay-ridge-shore-road-brooklyn",
+                "k": "new",
+                "n": "Bay Ridge map-grid gap (matrix §5b) · universal template + map embed + LocalBusiness schema"
+              },
+              {
+                "u": "/locations/sunset-park-industry-city-brooklyn",
+                "k": "new",
+                "n": "Sunset Park map-grid gap (matrix §5b)"
+              },
+              {
+                "u": "/locations/coney-island-stillwell-avenue-brooklyn",
+                "k": "new",
+                "n": "Primary pin reinforcement; links to /comprehensive-rehab-center-in-coney-island-ny"
+              }
+            ],
+            [
+              {
+                "u": "/locations/bay-ridge-3rd-avenue-brooklyn",
+                "k": "new",
+                "n": "Bay Ridge corridor cont'd; links to /treatments/alcohol-detox"
+              },
+              {
+                "u": "/locations/sunset-park-5th-avenue-brooklyn",
+                "k": "new",
+                "n": "Sunset Park corridor cont'd; links to /treatments/drug-detox"
+              },
+              {
+                "u": "/locations/bensonhurst-86th-street-brooklyn",
+                "k": "new",
+                "n": "Bensonhurst dominance reinforcement (rank #1 already at that anchor)"
+              }
+            ],
+            [
+              {
+                "u": "/locations/sunset-park-greenwood-heights-brooklyn",
+                "k": "new",
+                "n": "Sunset Park outer; links to /treatments/opioid-detox-mat"
+              },
+              {
+                "u": "/locations/sheepshead-bay-emmons-avenue-brooklyn",
+                "k": "new",
+                "n": "Outer-ring catchment; links to /treatments/dual-diagnosis or benzodiazepine-detox"
+              },
+              {
+                "u": "/locations/marine-park-avenue-u-brooklyn",
+                "k": "new",
+                "n": "Outer-ring South Brooklyn coverage extension"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Blog refresh",
+          "cap": "5 / month",
+          "cells": [
+            [
+              {
+                "u": "/blog/does-alcohol-affect-the-gallbladder",
+                "k": "refresh",
+                "n": "121k imp / pos 4.8 / 0.23% CTR · biggest on-topic bleeder"
+              },
+              {
+                "u": "/blog/how-long-does-it-take-for-weed-to-leave-your-system",
+                "k": "refresh",
+                "n": "107k imp / pos 7.5 / −81.1% 90d · link to /treatments/drug-detox"
+              },
+              {
+                "u": "/blog/whiskey-and-acid-reflux",
+                "k": "refresh",
+                "n": "71k imp / pos 7.5 / −52.6% 90d"
+              },
+              {
+                "u": "/blog/lamictal-and-alcohol",
+                "k": "refresh",
+                "n": "60k imp / pos 5.1 / psych-med interaction core"
+              },
+              {
+                "u": "/blog/can-alcohol-cause-blood-in-urine",
+                "k": "refresh",
+                "n": "57k imp / pos 3.0 / 1.03% CTR — best upside ceiling"
+              }
+            ],
+            [
+              {
+                "u": "/blog/mixing-alcohol-and-mucinex",
+                "k": "refresh",
+                "n": "105k imp / pos 7.4 / −77.2% · OTC-alcohol-mix core"
+              },
+              {
+                "u": "/blog/mixing-alcohol-and-zyrtec",
+                "k": "refresh",
+                "n": "85k imp / pos 5.0 / antihistamine cluster"
+              },
+              {
+                "u": "/blog/how-does-alcohol-affect-muscles",
+                "k": "refresh",
+                "n": "83k imp / pos 5.7 / −77.9% · link to /treatments/alcohol-detox"
+              },
+              {
+                "u": "/blog/can-alcohol-cause-hives",
+                "k": "refresh",
+                "n": "77k imp / pos 9.6 / −75.1% trend"
+              },
+              {
+                "u": "/blog/dangers-of-mixing-alcohol-and-buspar",
+                "k": "refresh",
+                "n": "51k imp / pos 5.9 / 0.65% CTR psych-med cluster"
+              }
+            ],
+            [
+              {
+                "u": "/blog/does-alcohol-cause-gerd",
+                "k": "refresh",
+                "n": "93k imp / pos 15.2 · biggest upside ceiling — pos 15→8 = ~3× clicks"
+              },
+              {
+                "u": "/blog/is-rubbing-alcohol-and-drinking-alcohol-the-same",
+                "k": "refresh",
+                "n": "85k imp / pos 10.7 / −70.1% trend"
+              },
+              {
+                "u": "/blog/what-drugs-can-cause-dilated-pupils",
+                "k": "refresh",
+                "n": "83k imp / pos 10.5 / −69.8% · link to /treatments/drug-detox"
+              },
+              {
+                "u": "/blog/dangers-of-mixing-claritin-alcohol",
+                "k": "refresh",
+                "n": "68k imp / pos 4.6 · antihistamine + alcohol cluster"
+              },
+              {
+                "u": "/blog/dangers-of-mixing-alcohol-and-nyquil",
+                "k": "refresh",
+                "n": "56k imp / pos 7.5 · OTC + alcohol core"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "On-page",
+          "cap": "per need",
+          "cells": [
+            [
+              {
+                "u": "Homepage CRD deploy",
+                "k": "revamp",
+                "n": "Drafted Mar 2026 · ship the existing brief (meta + H1 + service H2s + MedicalBusiness schema)"
+              },
+              {
+                "u": "/treatments hub upgrade",
+                "k": "revamp",
+                "n": "Anchor IDs (hard dependency for homepage internal-links) + Service / ItemList schema"
+              },
+              {
+                "u": "/services/alcohol-detox → /treatments/alcohol-detox 301",
+                "k": "redirect",
+                "n": "Land legacy URL onto the new Wave 1 sub-page"
+              },
+              {
+                "u": "Internal links → Wave 1 sub-pages",
+                "k": "fix",
+                "n": "Homepage + /treatments + this month's blog refreshes link to /treatments/alcohol-detox + /treatments/dual-diagnosis"
+              },
+              {
+                "u": "/about, /contact, /contact-us.com 404 fix",
+                "k": "fix",
+                "n": "Revenue-surface URLs returning errors today"
+              },
+              {
+                "u": "GBP description + categories alignment",
+                "k": "fix",
+                "n": "OASAS / CARF / MAT in the description · +4 categories (one-time alignment)"
+              }
+            ],
+            [
+              {
+                "u": "/services/opioid-detox-mat → /treatments/opioid-detox-mat 301",
+                "k": "redirect",
+                "n": "Land legacy URL onto Wave 2 sub-page"
+              },
+              {
+                "u": "/services/comprehensive-short-term → /treatments/short-term-rehab 301",
+                "k": "redirect",
+                "n": "Land legacy URL onto Wave 2 sub-page"
+              },
+              {
+                "u": "Internal links → Wave 2 sub-pages",
+                "k": "fix",
+                "n": "M1 sub-pages + this month's blog refreshes + suburb pages link to /treatments/opioid-detox-mat + /treatments/short-term-rehab"
+              },
+              {
+                "u": "23 KEEP-page title + meta rewrite",
+                "k": "refresh",
+                "n": "CTR optimization batch · `recovery center brooklyn` anchor — 10k imp / pos 3.7 / 0% CTR"
+              },
+              {
+                "u": "Schema sweep on Wave 1 + 2 sub-pages",
+                "k": "fix",
+                "n": "MedicalProcedure + Service + BreadcrumbList on each"
+              }
+            ],
+            [
+              {
+                "u": "/services/drug-detox → /treatments/drug-detox 301",
+                "k": "redirect",
+                "n": "Land legacy URL onto Wave 3 sub-page"
+              },
+              {
+                "u": "/services/benzodiazepine-detox → /treatments/benzodiazepine-detox 301",
+                "k": "redirect",
+                "n": "Land legacy URL onto Wave 3 sub-page (captures 1,925 imp/365d orphan)"
+              },
+              {
+                "u": "Internal links → Wave 3 sub-pages",
+                "k": "fix",
+                "n": "Existing sub-pages + this month's blog refreshes + suburb pages link to /treatments/drug-detox + /treatments/benzodiazepine-detox"
+              },
+              {
+                "u": "/areas-served light update",
+                "k": "revamp",
+                "n": "Link to the 9 new suburb pages + all 6 sub-pages (matrix connection, no full rebuild)"
+              },
+              {
+                "u": "Schema sweep on Wave 3 sub-pages",
+                "k": "fix",
+                "n": "MedicalProcedure + Service + BreadcrumbList on each"
+              }
+            ]
+          ]
+        }
+      ],
+      "note_html": "Tag legend — <span class='tag new'>NEW</span> brand-new URL · <span class='tag revamp'>REVAMP</span> existing page rebuilt · <span class='tag refresh'>REFRESH</span> light rewrite per HQDM Blog / Page Refresh SOP · <span class='tag redirect'>REDIRECT</span> 301 / 410 · <span class='tag fix'>FIX</span> tactical on-page action. Source sheets: <code>Surfpoint_Pages_Plan_Month1-3.xlsx</code> · <code>Surfpoint_Treatments_SubPages_BuildPlan.md</code> · <code>Surfpoint_Suburb_Pages_3Month.xlsx</code> · <code>Surfpoint_Blog_Refresh_3Month.xlsx</code>. Blog row backfilled to 5/month from the GSC pages_last_90d export (on-topic addiction / medical queries, imp ≥ 50k, pos 4–15)."
+    },
+    "maps": {
+      "enabled": true,
+      "title": "Maps Movement · Top Keywords",
+      "window": "Grid trend (Oct '25 → Apr '26) + anchor recheck (May 8 → May 28 '26)",
+      "headers": [
+        "Search",
+        "Before → Now",
+        "Window",
+        "Change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab brooklyn"
+            },
+            {
+              "t": "1.88 → <strong>1.47</strong> avg rank"
+            },
+            {
+              "t": "136-cell grid · 5 scans"
+            },
+            {
+              "t": "↑ +0.41 positions",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "alcohol detox brooklyn"
+            },
+            {
+              "t": "#1 → <strong>#1</strong>"
+            },
+            {
+              "t": "Coney anchor · 20 days"
+            },
+            {
+              "t": "held #1",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug rehab brooklyn"
+            },
+            {
+              "t": "#1 → <strong>#1</strong>"
+            },
+            {
+              "t": "Coney anchor · 20 days"
+            },
+            {
+              "t": "held #1",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "drug detox brooklyn"
+            },
+            {
+              "t": "#1 → <strong>#1</strong>"
+            },
+            {
+              "t": "Coney anchor · 20 days"
+            },
+            {
+              "t": "held #1",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "opioid treatment brooklyn"
+            },
+            {
+              "t": "#1 → <strong>#1</strong>"
+            },
+            {
+              "t": "Coney anchor · 20 days"
+            },
+            {
+              "t": "held #1",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "inpatient rehab brooklyn"
+            },
+            {
+              "t": "#1 → <strong>#1</strong>"
+            },
+            {
+              "t": "Coney anchor · 20 days"
+            },
+            {
+              "t": "held #1",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": "Row 1 = LocalDominator grid trend (avg rank across 136 ranked cells of the 169-cell 13×13 grid, 5 scans Oct 2025 → Apr 2026). Rows 2–6 = DataForSEO Maps Pack at Coney Island anchor, May 8 → May 28 2026. Only positive / hold movements shown — `drug rehab near me` slipped 1 → 3 at Coney over the window and is excluded; site-decline context aside, the priority service-line ranks held."
+    },
+    "competitors": {
+      "enabled": true,
+      "title": "Competitor Movement · Maps — Losing Ground",
+      "window": "Oct 2025 → Apr 2026 · LD grid delta (`alcohol rehab brooklyn` anchor)",
+      "headers": [
+        "Business",
+        "Avg rank",
+        "Top-3 spots",
+        "Change vs Oct '25"
+      ],
+      "rows": [
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Surfpoint Recovery (you)"
+            },
+            {
+              "t": "1.47"
+            },
+            {
+              "t": "130"
+            },
+            {
+              "t": "↑ +0.41 avg rank",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Teen Challenge Inc."
+            },
+            {
+              "t": "8.4"
+            },
+            {
+              "t": "0"
+            },
+            {
+              "t": "−121 cells (collapsed)",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "LSA Recovery (parent dissolved)"
+            },
+            {
+              "t": "—"
+            },
+            {
+              "t": "0"
+            },
+            {
+              "t": "−56 cells",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Anchor House Inc."
+            },
+            {
+              "t": "—"
+            },
+            {
+              "t": "0"
+            },
+            {
+              "t": "−54 cells",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Ascendant Detox NYC"
+            },
+            {
+              "t": "11.2"
+            },
+            {
+              "t": "0"
+            },
+            {
+              "t": "−26 cells (retreating)",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "ACI Inpatient"
+            },
+            {
+              "t": "1.4"
+            },
+            {
+              "t": "35"
+            },
+            {
+              "t": "−24 top-3 cells",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Jovenes Brooklyn AA"
+            },
+            {
+              "t": "2.7"
+            },
+            {
+              "t": "3"
+            },
+            {
+              "t": "−20 cells",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": "Brooklyn-grid losers vs Oct 2025 baseline — every cell they vacated is grid space Surfpoint can absorb. Biggest mover: Teen Challenge (132 → 11 cells, −121). ACI Inpatient is the meaningful direct competitor here — keeping the grid coverage but bleeding −24 top-3 cells. Surfpoint avg rank improved from 1.88 → 1.47 (+0.41) across the same 6-month window."
+    }
+  }
+}

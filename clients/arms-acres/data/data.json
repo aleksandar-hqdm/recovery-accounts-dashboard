@@ -1,0 +1,568 @@
+{
+  "snapshot": {
+    "eyebrow": "HQDM Search Intelligence · Prepared by Aleksandar Spasevski",
+    "title": "Arms Acres",
+    "short_name": "Arms Acres",
+    "subtitle": "Q2 2026 · Carmel NY + NYC-metro · Client Snapshot",
+    "footer": "Client snapshot · Q2 2026 · Prepared by Aleksandar Spasevski",
+    "exec_html": "<p>Arms Acres' Inpatient Carmel pin <strong>dominates Putnam County</strong> — 100% top-20 coverage across the high-intent searches and still improving scan over scan (drug-rehab +10 cells, alcohol-rehab-near-me +8). The gap is mechanical: HQDM has manager access to only one of four Google Business pins. The plan fixes the service-page conversion path, lifts insurance and payor content, and optimizes the managed Carmel pin.</p>",
+    "chips": [
+      {
+        "v": "100%",
+        "l": "top-20 Maps coverage",
+        "good": true
+      },
+      {
+        "v": "+17",
+        "l": "top-3 cells (Carmel pin)",
+        "good": true
+      },
+      {
+        "v": "1 / 4",
+        "l": "GBP pins managed",
+        "watch": true
+      }
+    ],
+    "line": {
+      "labels": [
+        "Oct '25",
+        "Nov '25",
+        "Dec '25",
+        "Jan '26",
+        "Feb '26",
+        "Mar '26",
+        "Apr '26"
+      ],
+      "visitors": [
+        4972,
+        4665,
+        5095,
+        7598,
+        8803,
+        8812,
+        9200
+      ],
+      "leads": [],
+      "visitors_label": "Organic visitors",
+      "leads_label": "Organic leads",
+      "partial_index": -1,
+      "title": "Organic Visitors · Monthly (Q4 2025 → Apr 2026)",
+      "caption": "Monthly organic visitors."
+    },
+    "quarters": {
+      "labels": [
+        "Q1 '25",
+        "Q2 '25",
+        "Q3 '25",
+        "Q4 '25",
+        "Q1 '26",
+        "Q2 '26*"
+      ],
+      "visitors": [
+        4156,
+        9876,
+        6761,
+        4910,
+        8404,
+        8207
+      ],
+      "leads": [],
+      "visitors_label": "Visitors",
+      "leads_label": "Leads",
+      "partial_index": 5,
+      "title": "By Quarter · Organic Visitors"
+    },
+    "boxes": [
+      {
+        "win": "Year over Year",
+        "cmp": "Q1 '26 vs Q1 '25",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+102%",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Last 6 Months",
+        "cmp": "vs prior 6 mo",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+20%",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Last 90 Days",
+        "cmp": "vs prior 90 days",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+17%",
+            "cls": "pos"
+          }
+        ]
+      }
+    ],
+    "boxes_reading_html": "Organic traffic and Maps visibility are the clean signals this quarter. The current month is partial.",
+    "focus": [],
+    "calendar": {
+      "enabled": true,
+      "title": "3-Month Delivery Calendar",
+      "subtitle": "Jun → Aug 2026 · exact pages and on-page actions per month, sourced from GSC + DataForSEO + site audit",
+      "months": [
+        "June 2026",
+        "July 2026",
+        "August 2026"
+      ],
+      "rows": [
+        {
+          "label": "Services",
+          "cap": "1–2 / month",
+          "cells": [
+            [
+              {
+                "u": "/inpatient/adult-rehabilitation",
+                "k": "revamp",
+                "n": "insurance-by-name + Medicaid + opioid & alcohol sub-sections + FAQ schema · 77K imp / 365d at pos 5.6"
+              }
+            ],
+            [
+              {
+                "u": "/alcohol-rehab-new-york",
+                "k": "new",
+                "n": "NY-state alcohol-rehab hub · 880-vol cluster · 3 of 5 competitors rank"
+              },
+              {
+                "u": "/outpatient/queens-outpatient",
+                "k": "revamp",
+                "n": "NAP fix (map widget shows Carmel addr) + Jamaica/Flushing/Forest Hills/Astoria + LocalBusiness schema"
+              }
+            ],
+            [
+              {
+                "u": "/detox-new-york",
+                "k": "new",
+                "n": "NY-state detox hub · 260-vol cluster · internal links from /inpatient/detox-program + /alcohol-rehab-new-york"
+              },
+              {
+                "u": "/outpatient/bronx-outpatient",
+                "k": "revamp",
+                "n": "Fordham/Williamsbridge/Norwood/Tremont + NAP + LocalBusiness schema"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Blogs",
+          "cap": "5 / month · refresh",
+          "cells": [
+            [
+              {
+                "u": "/blog/insurance-cover-drug-and-alcohol-rehab",
+                "k": "refresh",
+                "n": "pos 11.6 · 8.6K imp · insurance cluster anchor"
+              },
+              {
+                "u": "/blog/how-to-get-insurance-to-pay-for-inpatient-rehab",
+                "k": "refresh",
+                "n": "pos 14.5 · 14.1K imp · conversion-intent"
+              },
+              {
+                "u": "/blog/medicare-cover-alcohol-and-drug-rehab",
+                "k": "refresh",
+                "n": "pos 16.6 · 7.4K imp · named-payor"
+              },
+              {
+                "u": "/blog/tricare-cover-alcohol-and-drug-rehab",
+                "k": "refresh",
+                "n": "pos 20.2 · 7.9K imp · veteran-LTV"
+              },
+              {
+                "u": "/blog/aetna-cover-rehab-treatment",
+                "k": "refresh",
+                "n": "pos 20.1 · 11.4K imp · named-payor"
+              }
+            ],
+            [
+              {
+                "u": "/blog/alcohol-recovery-statistics",
+                "k": "refresh",
+                "n": "pos 11.4 · 19.7K imp · one push from top-10"
+              },
+              {
+                "u": "/blog/can-you-stop-taking-ambien-cold-turkey",
+                "k": "refresh",
+                "n": "pos 12.8 · 55.6K imp · biggest single opportunity"
+              },
+              {
+                "u": "/blog/how-much-does-drug-rehab-cost-without-insurance",
+                "k": "refresh",
+                "n": "pos 16.5 · 17.0K imp · cost objection-handling"
+              },
+              {
+                "u": "/blog/a-clear-overview-of-percocet",
+                "k": "refresh",
+                "n": "pos 15.8 · 40.6K imp at 0.10% CTR · title rescue"
+              },
+              {
+                "u": "/blog/how-addictive-is-xanax",
+                "k": "refresh",
+                "n": "pos 23.6 · 31.5K imp · title + internal links"
+              }
+            ],
+            [
+              {
+                "u": "/blog/what-an-enabler-means-in-substance-addiction",
+                "k": "refresh",
+                "n": "pos 15.4 · 9.9K imp"
+              },
+              {
+                "u": "/blog/social-media-addiction",
+                "k": "refresh",
+                "n": "pos 16.3 · 8.2K imp"
+              },
+              {
+                "u": "/blog/how-to-pay-for-drug-rehab",
+                "k": "refresh",
+                "n": "pos 14.3 · 8.1K imp"
+              },
+              {
+                "u": "/blog/healthfirst-medicaid-alcohol-rehab-in-new-york",
+                "k": "new",
+                "n": "supports /alcohol-rehab-new-york · targets '28 day inpatient rehab centers accepting healthfirst medicaid new york' (AA at pos 11.5 with 1,801 imp / 180d)"
+              },
+              {
+                "u": "/blog/alcohol-detox-upstate-ny-what-to-expect",
+                "k": "new",
+                "n": "supports /detox-new-york · targets 'drug rehab centers upstate ny' (pos 6.05 with 6,396 imp) + 'alcohol detox upstate ny' (566 imp)"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Suburbs",
+          "cap": "3 / month",
+          "cells": [
+            [
+              {
+                "u": "/suburb/rehab-center-in-peekskill-ny",
+                "k": "revamp",
+                "n": "9.1K imp · pos 15.2"
+              },
+              {
+                "u": "/suburb/superior-rehab-center-in-hughsonville-ny",
+                "k": "revamp",
+                "n": "7.6K imp · pos 10.9"
+              },
+              {
+                "u": "/suburb/rehab-center-in-katonah-ny",
+                "k": "revamp",
+                "n": "6.2K imp · pos 19.7"
+              }
+            ],
+            [
+              {
+                "u": "/suburb/yorktown-heights-ny",
+                "k": "revamp",
+                "n": "4.1K imp · pos 20.9"
+              },
+              {
+                "u": "/suburb/rehab-center-in-patterson-ny",
+                "k": "revamp",
+                "n": "3.3K imp · pos 17.3"
+              },
+              {
+                "u": "/suburb/brewster-ny",
+                "k": "revamp",
+                "n": "2.8K imp · pos 14.7"
+              }
+            ],
+            [
+              {
+                "u": "/suburb/trusted-drug-and-alcohol-rehab-center-in-carmel-village-ny",
+                "k": "revamp",
+                "n": "2.0K imp · pos 21.2"
+              },
+              {
+                "u": "/suburb/leading-drug-and-alcohol-rehab-in-stormville-ny",
+                "k": "revamp",
+                "n": "1.9K imp · pos 26.1"
+              },
+              {
+                "u": "/suburb/personalized-drug-rehab-center-in-cortlandt-ny",
+                "k": "revamp",
+                "n": "1.9K imp · pos 31.7"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "On-page",
+          "cap": "per need",
+          "cells": [
+            [
+              {
+                "u": "Deploy 4-input intake form · /service/* + /inpatient/* + /outpatient/*",
+                "k": "fix",
+                "n": "24K sess / 365d convert at 0% today · form template exists, never deployed"
+              },
+              {
+                "u": "Fix homepage og:description",
+                "k": "fix",
+                "n": "wrong-brand 'Bold Steps Harrisburg PA' boilerplate live today"
+              },
+              {
+                "u": "Internal-link 5 M1 insurance articles into hub on /admissions",
+                "k": "fix"
+              },
+              {
+                "u": "/suburb/* doorway audit · bucket all 71 URLs (KEEP / AUDIT / NOINDEX)",
+                "k": "fix"
+              },
+              {
+                "u": "Carmel Inpatient GBP services list → site-URL map",
+                "k": "fix"
+              }
+            ],
+            [
+              {
+                "u": "Internal-link /alcohol-rehab-new-york from homepage + /inpatient/adult-rehabilitation + 4 insurance articles",
+                "k": "fix"
+              },
+              {
+                "u": "Queens GBP → /outpatient/queens-outpatient services-list sync",
+                "k": "fix",
+                "n": "post-revamp · also tighten Queens GBP description (33 → ~720 chars)"
+              },
+              {
+                "u": "Redirect map for /suburb/* URLs reclassified NOINDEX in M1 audit",
+                "k": "redirect"
+              },
+              {
+                "u": "GBP Posts on Queens + Carmel linked to refreshed insurance articles",
+                "k": "fix"
+              }
+            ],
+            [
+              {
+                "u": "Sitewide schema deployment",
+                "k": "fix",
+                "n": "LocalBusiness on 3 outpatient + Inpatient · Service on /service/* · FAQPage on M1+M2 blog batches"
+              },
+              {
+                "u": "De-duplicate 4 /service/*-in-carmel-hamlet-ny near-duplicates",
+                "k": "redirect",
+                "n": "39% body overlap with parent · 301 the dupe or rewrite city-specific"
+              },
+              {
+                "u": "Insurance-carrier anchored sections on /admissions",
+                "k": "fix",
+                "n": "Aetna · Medicare · Medicaid · Tricare · Cigna · BCBS"
+              },
+              {
+                "u": "Bronx GBP → /outpatient/bronx-outpatient sync",
+                "k": "fix",
+                "n": "post-revamp · tighten Bronx GBP description + categories"
+              }
+            ]
+          ]
+        }
+      ],
+      "note_html": "Sources: GSC pages_last_180d + queries_last_180d (blog + suburb impression picks), arms_acres_content_gap_v2 (NY-state cluster sizing), arms_acres_blog_improve_candidates.csv (refresh queue), Arms_Acres_Suburb_Pages_3Month.csv (suburb bucket). Tags: <span class=\"tag revamp\">revamp</span> existing page rebuild · <span class=\"tag new\">new</span> net-new page · <span class=\"tag refresh\">refresh</span> blog title + intro + FAQ schema + 2026 stats · <span class=\"tag redirect\">redirect</span> 301 / 410 / canonical · <span class=\"tag fix\">fix</span> technical on-page."
+    },
+    "maps": {
+      "enabled": true,
+      "title": "Maps Movement · Top Keywords",
+      "window": "Feb → May 2026 · 8 tracked searches",
+      "headers": [
+        "Search",
+        "Avg position",
+        "Top-3 map spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "alcohol detox near me"
+            },
+            {
+              "t": "<span class=\"arrow-up\">2.57 → <strong>2.31</strong></span>"
+            },
+            {
+              "t": "128 → <strong>139</strong>"
+            },
+            {
+              "t": "+11",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "detox center near me"
+            },
+            {
+              "t": "<span class=\"arrow-up\">2.62 → <strong>2.53</strong></span>"
+            },
+            {
+              "t": "128 → <strong>130</strong>"
+            },
+            {
+              "t": "+2",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab near me"
+            },
+            {
+              "t": "<span class=\"arrow-up\">3.15 → <strong>2.87</strong></span>"
+            },
+            {
+              "t": "115 → <strong>123</strong>"
+            },
+            {
+              "t": "+8",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": null
+    },
+    "competitors": {
+      "enabled": true,
+      "title": "Competitor Movement · Maps",
+      "window": "Across 8 tracked searches · Feb → May 2026",
+      "headers": [
+        "Business",
+        "Avg rank",
+        "Top-3 spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Arms Acres Inpatient Carmel (you)"
+            },
+            {
+              "t": "2.3"
+            },
+            {
+              "t": "692"
+            },
+            {
+              "t": "+17",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Cornerstone of Medical Arts (Bronx)"
+            },
+            {
+              "t": "4.5"
+            },
+            {
+              "t": "285"
+            },
+            {
+              "t": "-5",
+              "c": "muted"
+            }
+          ]
+        },
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Arms Acres Carmel OP (co-rank) (you)"
+            },
+            {
+              "t": "2.0"
+            },
+            {
+              "t": "169"
+            },
+            {
+              "t": "0",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Ascendant NY (Manhattan)"
+            },
+            {
+              "t": "13.5"
+            },
+            {
+              "t": "152"
+            },
+            {
+              "t": "+22",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Samaritan Daytop Village"
+            },
+            {
+              "t": "7.5"
+            },
+            {
+              "t": "145"
+            },
+            {
+              "t": "+12",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "CoveCare Center (Carmel)"
+            },
+            {
+              "t": "4.1"
+            },
+            {
+              "t": "95"
+            },
+            {
+              "t": "+8",
+              "c": "neg"
+            }
+          ]
+        }
+      ],
+      "note_html": "You're #1 in the market (692 top-3 cells, +17). Your own Carmel Outpatient pin co-ranks just behind it; the nearest outside competitor (Cornerstone) sits well back. Lower avg rank is better."
+    }
+  }
+}

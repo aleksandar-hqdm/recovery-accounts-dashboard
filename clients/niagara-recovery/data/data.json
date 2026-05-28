@@ -1,0 +1,801 @@
+{
+  "snapshot": {
+    "eyebrow": "HQDM Search Intelligence · Prepared by Aleksandar Spasevski",
+    "title": "Niagara Recovery",
+    "short_name": "Niagara Recovery",
+    "subtitle": "Q2 2026 · Western NY · Newfane pin · Client Snapshot",
+    "footer": "Client snapshot · Q2 2026 · Prepared by Aleksandar Spasevski",
+    "exec_html": "<p>Niagara Recovery <strong>is the structural #1 entity for addiction-treatment Maps across Western NY</strong>. On a 158-cell DataForSEO LocalDominator grid (Apr 30 2026), the brand is top-3 on <strong>70.9%</strong> of cells for <em>alcohol detox near me</em>, <strong>70.3%</strong> for <em>alcohol rehab</em>, and 60%+ for the rest of the priority-keyword set — at avg rank 3.0–3.5 across the whole map. <strong>Eight outer-ring towns</strong> (Newfane, Appleton, Ransomville, Cambria, Wilson, Youngstown, Olcott, Burt) are at 100% top-3 across all 8 priority queries; Lockport (94%) and Barker (95%) round out a 10-town dominance ring. Branded search clicks through at <strong>17.1%</strong> on 15,237 imp/365d. Q2 is about converting what the brand already wins in Maps into site-level traffic: brand-canonical fix to recover the 41% search bleed to the old name, a Google Business service-area swap to declare 9 winnable anchor towns, service-page consolidation, and location-page architecture.</p>",
+    "chips": [
+      {
+        "v": "70.9%",
+        "l": "top-3 · alcohol detox near me",
+        "good": true
+      },
+      {
+        "v": "8",
+        "l": "towns 100% top-3 owned",
+        "good": true
+      },
+      {
+        "v": "17.1%",
+        "l": "branded search CTR · 365d",
+        "good": true
+      },
+      {
+        "v": "#1",
+        "l": "WNY Maps · 759 top-3 cells",
+        "good": true
+      }
+    ],
+    "line": {
+      "labels": [
+        "Oct '25",
+        "Nov '25",
+        "Dec '25",
+        "Jan '26",
+        "Feb '26",
+        "Mar '26",
+        "Apr '26"
+      ],
+      "visitors": [
+        242,
+        196,
+        161,
+        189,
+        181,
+        273,
+        196
+      ],
+      "leads": [],
+      "visitors_label": "Brand-search clicks",
+      "leads_label": "",
+      "partial_index": -1,
+      "title": "Maps Engine · Brand-Search Clicks · Monthly (Q4 2025 → Apr 2026)",
+      "caption": "Brand-search clicks are the on-site signal of the Google Business / Maps engine — people who see the Newfane profile (11,019 GBP profile views Dec→May 2026, 90% from Google Search panels + 10% from the Maps app) come back to search the brand. The line has held in the ~200/mo range across Q4 2025 → Q1 2026, stable while the rest of the site's organic discovery was retreating. GMB-tagged sessions in GA4 reinforce it: GMB drove 45.8% of all organic sessions in the last 30 days, up from 21.1% trailing 365 days."
+    },
+    "boxes": [
+      {
+        "win": "Top-3 Maps cells",
+        "cmp": "Apr 30 · 6 priority kws · 158-cell grid",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Niagara Recovery",
+            "d": "759 cells",
+            "cls": "pos"
+          },
+          {
+            "m": "Next provider",
+            "d": "230 cells",
+            "cls": ""
+          }
+        ]
+      },
+      {
+        "win": "Anchor towns owned",
+        "cmp": "100% top-3 across 8 kws",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Towns at 100%",
+            "d": "8",
+            "cls": "pos"
+          },
+          {
+            "m": "Towns ≥90%",
+            "d": "10",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Branded engine · 365d",
+        "cmp": "GSC · 20 branded queries",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Clicks",
+            "d": "2,605",
+            "cls": "pos"
+          },
+          {
+            "m": "CTR",
+            "d": "17.1%",
+            "cls": "pos"
+          }
+        ]
+      }
+    ],
+    "boxes_reading_html": "The Maps engine is the clean signal — Niagara is the structural #1 entity for addiction-treatment across Western NY, with 759 top-3 cells vs 230 for the next provider. The branded search engine routes 2,605 clicks/year at a healthy 17.1% CTR. Q2 levers convert this structural position into more site-declared territory and more on-page surface for the brand to compound on.",
+    "focus": [],
+    "calendar": {
+      "enabled": true,
+      "title": "3-Month Delivery Calendar",
+      "subtitle": "Jun → Aug 2026 · exact pages + on-page actions per month, sourced from GSC pages_last_365d, DataForSEO Bing/Google Ads volumes, LocalDominator 158-cell WNY grid, GBP intake 2026-05-19, and the Q2 v2 strategy CSVs (Pages_Action_List / Service_Pages_Plan / Page_Refresh_Pages / GBP_Action_List).",
+      "months": [
+        "June 2026",
+        "July 2026",
+        "August 2026"
+      ],
+      "rows": [
+        {
+          "label": "Services",
+          "cap": "1–2 / month",
+          "cells": [
+            [
+              {
+                "u": "/services/alcohol-detoxification-services",
+                "k": "revamp",
+                "n": "932w → 1500w + MedicalBusiness/Service schema + per-page meta + intake CTA + 8-Q FAQ · 790/mo Bing volume (highest single-modality demand) · current page ships [phone number] placeholder + 0 schema"
+              }
+            ],
+            [
+              {
+                "u": "/services/drug-detox-services",
+                "k": "revamp",
+                "n": "733w → 1500w + Service+hasOfferCatalog schema + per-modality split (opioids / amphetamines / cocaine / poly-drug / benzo) + FAQ · 6,600/mo Google Ads volume (largest captured demand)"
+              },
+              {
+                "u": "/services/suboxone-mat-program",
+                "k": "new",
+                "n": "Brand-new URL · 1500w + Service+hasOfferCatalog schema (Suboxone + Vivitrol + methadone referral) + payor info · 1,900/mo Google Ads 'suboxone doctor' + 530/mo Bing 'suboxone clinic' + 62 GBP-search 'suboxone' Dec→May"
+              }
+            ],
+            [
+              {
+                "u": "/services/opioid-detoxification-services",
+                "k": "revamp",
+                "n": "Post-CN-01 polish · expand body + MedicalBusiness schema + intake CTA + FAQ · captures the opioid sub-cluster pulled out of /services/drug-detox-services"
+              },
+              {
+                "u": "/services/short-term-residential-program",
+                "k": "revamp",
+                "n": "Post-Push 3 polish · MedicalBusiness schema + program-length + insurance + intake CTA · GBP product #1 currently has no schema floor on site"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Suburbs",
+          "cap": "3 / month",
+          "cells": [
+            [
+              {
+                "u": "/locations/williamsville",
+                "k": "revamp",
+                "n": "986w content already in place but 0 schema + no ratings + no NAP · LD coverage 89–93% rank 5-6 · schema + NAP is the lever"
+              },
+              {
+                "u": "/locations/cheektowaga",
+                "k": "revamp",
+                "n": "679w content + 0 schema · LD coverage 37–50% rank 8-10 · same upgrade pattern as Williamsville"
+              },
+              {
+                "u": "/locations/lockport",
+                "k": "revamp",
+                "n": "Thin 276w doorway expanded to 1000w + MedicalBusiness schema + drive-time + neighborhood mentions (Cambria / Pendleton / Ridgewood) · Lockport entity is LD-dominant (13 cells 100% rank 1.4) but landing wastes the signal"
+              }
+            ],
+            [
+              {
+                "u": "/locations/tonawanda",
+                "k": "new",
+                "n": "Currently 404 · build ~1000w + MedicalBusiness schema + drive directions from Tonawanda + service-area + intake CTA · Buffalo-metro break-out anchor with zero on-site landing"
+              },
+              {
+                "u": "/locations/north-tonawanda",
+                "k": "new",
+                "n": "Currently 404 · same build template · LD 2-8 cells 50–100% rank 5-7 (larger entity surface than Tonawanda)"
+              },
+              {
+                "u": "/locations/lewiston",
+                "k": "new",
+                "n": "No page today · ~800w build + schema · LD 100% rank 4-5 — entity-claim with low-effort win, rank already winnable"
+              }
+            ],
+            [
+              {
+                "u": "/locations/youngstown",
+                "k": "new",
+                "n": "No page today · ~800w build + schema · LD 100% rank 1.3 — dominant in zone but no entity landing currently"
+              },
+              {
+                "u": "/locations/niagara-falls",
+                "k": "revamp",
+                "n": "Thin 278w expanded to 1000w + schema + NF-specific drive-time · lift comes from the entity claim, not the LD position alone (LD rank 10-16)"
+              },
+              {
+                "u": "/locations/amherst",
+                "k": "revamp",
+                "n": "Thin 276w expanded to 1000w + schema · weakest anchor (LD 33% rank 12-15) — deferred to M3 because Lockport / Tonawanda / NF carry larger lift"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "Blogs",
+          "cap": "5 / month · refresh",
+          "cells": [
+            [
+              {
+                "u": "/blog/alcohol-and-gout",
+                "k": "refresh",
+                "n": "1,652 clicks / 98K imp · 365d · health-curious → addiction CTA · per-post template: intake CTA × 3 placements + Article schema + medicalReviewedBy + links to /services/alcohol-detoxification-services"
+              },
+              {
+                "u": "/blog/friend-passed-out-drunk-how-to-wake-up-a-drunk-person",
+                "k": "refresh",
+                "n": "498 clicks / 41K imp · family-crisis intent → intake CTA + crisis line + links to /admissions"
+              },
+              {
+                "u": "/blog/alcohol-relapse-statistics",
+                "k": "refresh",
+                "n": "281 clicks / 39K imp · directly addiction-vertical · intake CTA + Article schema + links to /services/short-term-residential-program"
+              },
+              {
+                "u": "/blog/whiskey-and-acid-reflux",
+                "k": "refresh",
+                "n": "229 clicks / 62K imp · consequence-of-drinking intent · intake CTA + links to alcohol-detox"
+              },
+              {
+                "u": "/blog/withdrawal-from-alcohol-using-hydroxyzine",
+                "k": "refresh",
+                "n": "152 clicks / 16K imp · medical-withdrawal intent · intake CTA + links to medically-supervised detox + suboxone-MAT"
+              }
+            ],
+            [
+              {
+                "u": "/blog/get-rid-of-alcohol-breath",
+                "k": "refresh",
+                "n": "122 clicks / 73K imp · consequence-of-drinking intent · CTA + Article schema + cross-link to /services/alcohol-detoxification-services"
+              },
+              {
+                "u": "/blog/dangers-of-mixing-alcohol-buspar",
+                "k": "refresh",
+                "n": "87 clicks / 37K imp · medication-interaction intent · CTA + links to MAT page"
+              },
+              {
+                "u": "/blog/dangers-of-mixing-alcohol-htp",
+                "k": "refresh",
+                "n": "86 clicks / 18K imp · same medication-interaction pattern"
+              },
+              {
+                "u": "/blog/free-sobriety-apps-to-boost-your-recovery",
+                "k": "refresh",
+                "n": "70 clicks / 24K imp · recovery-tools intent · CTA + links to /admissions + short-term residential"
+              },
+              {
+                "u": "/blog/can-alcohol-cause-blood-in-urine",
+                "k": "refresh",
+                "n": "67 clicks / 33K imp · health-concern intent · CTA + links to alcohol-detox"
+              }
+            ],
+            [
+              {
+                "u": "/blog/can-alcohol-withdrawal-cause-chest-tightness",
+                "k": "refresh",
+                "n": "62 clicks / 7K imp · directly withdrawal-vertical · CTA + links to medically-supervised detox"
+              },
+              {
+                "u": "/blog/hospital-treatment-for-overdose-patients",
+                "k": "refresh",
+                "n": "62 clicks / 6K imp · urgent-care intent · CTA + crisis-line + links to inpatient detox"
+              },
+              {
+                "u": "/blog/keppra-and-alcohol",
+                "k": "refresh",
+                "n": "57 clicks / 23K imp · medication-interaction · CTA + Article schema"
+              },
+              {
+                "u": "/blog/sudafed-pseudoephedrine-alcohol",
+                "k": "refresh",
+                "n": "53 clicks / 13K imp · same pattern"
+              },
+              {
+                "u": "/blog/can-alcohol-cause-hives",
+                "k": "refresh",
+                "n": "35 clicks / 59K imp (CTR 0.06%) · title rescue + intake CTA — biggest impression-to-click rebuild opportunity in the tier"
+              }
+            ]
+          ]
+        },
+        {
+          "label": "On-page",
+          "cap": "per need",
+          "cells": [
+            [
+              {
+                "u": "Brand-canonical sweep on 5 core pages (/about-us · /admissions · /contact-us · /treatments · /areas-served)",
+                "k": "fix",
+                "n": "Title + H1 + body 'Recovery Center of Niagara' → 'Niagara Recovery' · recovers 41% branded-demand bleed (363 of 891 GBP searches Dec→May still on old brand)"
+              },
+              {
+                "u": "LocalBusiness JSON-LD entity-name fix + WP-content image swap to live Webflow CDN",
+                "k": "fix",
+                "n": "Homepage + about + admissions · @id canonical · validate via validator.schema.org"
+              },
+              {
+                "u": "Kill '[phone number]' placeholder on alcohol-detox + Newfane dupe",
+                "k": "fix",
+                "n": "Replace with (716) 203-8000 · QA bug live since Webflow build"
+              },
+              {
+                "u": "Fix Buffalo NAP fabrication (/locations/buffalo)",
+                "k": "fix",
+                "n": "Body claims 'facility in Buffalo, NY 14215' but the only facility is in Newfane · rewrite to 'serving Buffalo metro from Newfane'"
+              },
+              {
+                "u": "301 the 5 -in-newfane-ny service-page dupes → 5 base /services URLs",
+                "k": "redirect",
+                "n": "10 service URLs collapse to 5 canonical · content-merge unique body sections under the base before redirect"
+              },
+              {
+                "u": "MedicalBusiness + Service schema on 5 base /services pages + /treatments + /services/short-term-residential-program",
+                "k": "fix",
+                "n": "Currently 0 schema on any service page · service-page entity floor"
+              }
+            ],
+            [
+              {
+                "u": "Redirect doorway-template /locations/* URLs (best- · most-trusted- · dependable- · premium- · holistic-*) → nearest anchor city page",
+                "k": "redirect"
+              },
+              {
+                "u": "NOINDEX off-vertical high-impression blog cohort (porn-addiction · vape-by-country · social-media addiction · generic-mental-health)",
+                "k": "fix"
+              },
+              {
+                "u": "Internal-link M1 refreshed blogs → /services/* hub + /admissions",
+                "k": "fix"
+              },
+              {
+                "u": "GBP → site UTM consistency · ?utm_source=gmb on all GBP CTAs",
+                "k": "fix",
+                "n": "defend the GBP-tagged organic share (45.8% of all organic sessions in last 30d)"
+              }
+            ],
+            [
+              {
+                "u": "Schema audit · MedicalBusiness + Service on M1/M2 revamped /services/* · LocalBusiness on upgraded /locations/*",
+                "k": "fix"
+              },
+              {
+                "u": "Internal-link audit · /admissions hub → service ladder + WNY anchor location pages",
+                "k": "fix"
+              },
+              {
+                "u": "Page-level schema refactor · core pages (homepage + /about-us + /admissions + /contact-us + /treatments)",
+                "k": "fix",
+                "n": "swap any global @graph debris for page-specific MedicalBusiness / BreadcrumbList / FAQPage"
+              }
+            ]
+          ]
+        }
+      ],
+      "note_html": "Sources: GSC pages_last_365d (blog refresh queue), DataForSEO Bing + Google Ads volumes (service-page priority), LocalDominator 158-cell WNY grid Apr 30 2026 (suburb selection), GBP intake 2026-05-19 (service-area + photo + Posts state). Tags: <span class=\"tag revamp\">revamp</span> existing page rebuild · <span class=\"tag new\">new</span> net-new page · <span class=\"tag refresh\">refresh</span> blog title + intro + CTA + Article schema · <span class=\"tag redirect\">redirect</span> 301 / 410 / canonical · <span class=\"tag fix\">fix</span> technical on-page."
+    },
+    "maps": {
+      "enabled": true,
+      "title": "Maps Dominance · Top Keywords",
+      "window": "Apr 30, 2026 · DataForSEO LocalDominator 158-cell WNY grid",
+      "headers": [
+        "Search",
+        "Top-3 cells",
+        "Top-3 %",
+        "Avg rank"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "alcohol detox near me"
+            },
+            {
+              "t": "<strong>112</strong> / 158"
+            },
+            {
+              "t": "<strong>70.9%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "3.13"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab"
+            },
+            {
+              "t": "<strong>111</strong> / 158"
+            },
+            {
+              "t": "<strong>70.3%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "2.99"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "inpatient rehab near me"
+            },
+            {
+              "t": "<strong>97</strong> / 158"
+            },
+            {
+              "t": "<strong>61.4%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "3.17"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "addiction rehab near me"
+            },
+            {
+              "t": "<strong>96</strong> / 158"
+            },
+            {
+              "t": "<strong>60.8%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "3.39"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "addiction rehab"
+            },
+            {
+              "t": "<strong>96</strong> / 158"
+            },
+            {
+              "t": "<strong>60.8%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "3.52"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "addiction treatment center"
+            },
+            {
+              "t": "<strong>86</strong> / 158"
+            },
+            {
+              "t": "<strong>54.4%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "3.30"
+            }
+          ]
+        }
+      ],
+      "note_html": "Across the 158-cell Western NY grid, Niagara Recovery places in the top 3 Maps results on the majority of cells for every commercial-intent priority keyword. The two highest-volume queries (alcohol-detox-near-me and alcohol-rehab) hold 70%+ top-3 coverage."
+    },
+    "anchor_towns_table": {
+      "enabled": true,
+      "title": "Anchor Towns · 100% Top-3 Owned",
+      "window": "Across 8 priority keywords · 158-cell grid · Apr 30 2026",
+      "headers": [
+        "Town",
+        "Top-3 cells owned",
+        "Owned %",
+        "Avg rank"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "Newfane (pin)"
+            },
+            {
+              "t": "<strong>32</strong> / 32"
+            },
+            {
+              "t": "<strong>100%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.00"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Appleton"
+            },
+            {
+              "t": "<strong>32</strong> / 32"
+            },
+            {
+              "t": "<strong>100%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.00"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Cambria"
+            },
+            {
+              "t": "<strong>32</strong> / 32"
+            },
+            {
+              "t": "<strong>100%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.22"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Ransomville"
+            },
+            {
+              "t": "<strong>32</strong> / 32"
+            },
+            {
+              "t": "<strong>100%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.22"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Wilson"
+            },
+            {
+              "t": "<strong>24</strong> / 24"
+            },
+            {
+              "t": "<strong>100%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.00"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Youngstown"
+            },
+            {
+              "t": "<strong>16</strong> / 16"
+            },
+            {
+              "t": "<strong>100%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.38"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Barker"
+            },
+            {
+              "t": "<strong>236</strong> / 248"
+            },
+            {
+              "t": "<strong>95.2%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.42"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Lockport"
+            },
+            {
+              "t": "<strong>98</strong> / 104"
+            },
+            {
+              "t": "<strong>94.2%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "1.53"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Pendleton"
+            },
+            {
+              "t": "<strong>37</strong> / 48"
+            },
+            {
+              "t": "<strong>77.1%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "2.57"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "Clarence"
+            },
+            {
+              "t": "<strong>170</strong> / 320"
+            },
+            {
+              "t": "<strong>53.1%</strong>",
+              "c": "pos"
+            },
+            {
+              "t": "3.54"
+            }
+          ]
+        }
+      ],
+      "note_html": "These are the towns where Niagara is already structurally #1-3 in the Maps pack. The Q2 plan converts this Map presence into site-declared entity presence — the GBP service-area swap declares Lockport, Clarence, Cambria, Pendleton, and 5 more anchor towns; the location-page architecture builds the on-site landings to match."
+    },
+    "competitors": {
+      "enabled": false,
+      "title": "Competitor Movement · Maps",
+      "window": "Across 9 tracked searches · Feb 22 → Apr 30, 2026",
+      "headers": [
+        "Business",
+        "Avg rank",
+        "Top-3 spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Niagara Recovery (you)"
+            },
+            {
+              "t": "1.9"
+            },
+            {
+              "t": "759"
+            },
+            {
+              "t": "-55",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Niagara Rehabilitation-Nursing"
+            },
+            {
+              "t": "1.0"
+            },
+            {
+              "t": "230"
+            },
+            {
+              "t": "+5",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Casa Di Vita (Cazenovia Recovery)"
+            },
+            {
+              "t": "4.8"
+            },
+            {
+              "t": "220"
+            },
+            {
+              "t": "+12",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Renaissance Addiction Services at BestSelf"
+            },
+            {
+              "t": "5.7"
+            },
+            {
+              "t": "198"
+            },
+            {
+              "t": "+22",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Pathways (CHS Buffalo)"
+            },
+            {
+              "t": "7.3"
+            },
+            {
+              "t": "195"
+            },
+            {
+              "t": "+18",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Niagara Health & Rehab Centre"
+            },
+            {
+              "t": "2.0"
+            },
+            {
+              "t": "195"
+            },
+            {
+              "t": "+4",
+              "c": "neg"
+            }
+          ]
+        }
+      ],
+      "note_html": "Niagara is the #1 Maps entity in addiction-treatment Western NY by a wide margin — 759 top-3 cells across the 9 priority queries × 158-cell grid, more than 3× the next provider (Casa Di Vita at 220). Three of the rows above are intent-mismatched (medical/elder rehab and physical therapy), included for reference; the comparable addiction-treatment competitors are Renaissance, Pathways, Casa Di Vita, and Caz Recovery — all beatable on rating + topical density. Lower avg rank is better."
+    }
+  }
+}

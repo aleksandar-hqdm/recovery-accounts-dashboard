@@ -1,0 +1,344 @@
+{
+  "snapshot": {
+    "eyebrow": "HQDM Search Intelligence · Prepared by Aleksandar Spasevski",
+    "title": "Elev8 Centers",
+    "short_name": "Elev8 Centers",
+    "subtitle": "Q2 2026 · NYC · Harlem pin · Client Snapshot",
+    "footer": "Client snapshot · Q2 2026 · Prepared by Aleksandar Spasevski",
+    "exec_html": "<p>Your Harlem pin is the <strong>only NYC addiction-treatment provider that gained ground on all eight tracked Maps searches</strong> last quarter — <strong>+787 grid positions with zero losses</strong> — and you own the Harlem-neighborhood searches outright (positions 1–2). The next leg is structural: your homepage is trying to rank for nine different commercial searches at once. Splitting it into dedicated pages, building borough hubs, and adding MAT and dual-diagnosis service hubs unlocks page-one candidates you don't have today.</p>",
+    "chips": [
+      {
+        "v": "+787",
+        "l": "grid positions gained",
+        "good": true
+      },
+      {
+        "v": "3 / 8",
+        "l": "Maps searches owned",
+        "good": true
+      },
+      {
+        "v": "#1",
+        "l": "NYC pin on Maps",
+        "good": true
+      },
+      {
+        "v": "pos 1.2–2.1",
+        "l": "Harlem organic",
+        "good": true
+      }
+    ],
+    "quarters": {
+      "labels": [
+        "Dec '24",
+        "Q1 '25",
+        "Q2 '25",
+        "Q3 '25",
+        "Q4 '25",
+        "Q1 '26"
+      ],
+      "visitors": [
+        3604,
+        4801,
+        6320,
+        5764,
+        5208,
+        8124
+      ],
+      "leads": [
+        4.0,
+        8.0,
+        13.7,
+        17.3,
+        11.3,
+        12.0
+      ],
+      "visitors_label": "Visitors",
+      "leads_label": "Leads (monthly avg)",
+      "partial_index": -1,
+      "title": "By Quarter · Organic Visitors"
+    },
+    "boxes": [
+      {
+        "win": "Year over Year",
+        "cmp": "Q1 2026 vs Q1 2025",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "+69%",
+            "cls": "pos"
+          },
+          {
+            "m": "Leads",
+            "d": "+50%",
+            "cls": "pos"
+          }
+        ]
+      },
+      {
+        "win": "Last 90 Days",
+        "cmp": "vs prior 90 days (complete months only)",
+        "kind": "good",
+        "rows": [
+          {
+            "m": "Visitors",
+            "d": "-17%",
+            "cls": "neg"
+          },
+          {
+            "m": "Leads",
+            "d": "+6%",
+            "cls": "pos"
+          }
+        ]
+      }
+    ],
+    "boxes_reading_html": "Organic visitors, Maps visibility, and form-submit leads are the clean signals this quarter. GMB clicks and phone-link clicks are tracked separately (Jul 2025 onward) and shown in the strategic dashboard, not bundled into leads here. The current month is partial.",
+    "focus": [
+      {
+        "title": "Build Calendar · June → August 2026",
+        "color": "#1d5b8a",
+        "body": "<div style=\"overflow-x:auto\"><table class=\"cal\"><thead><tr><th>Track</th><th class=\"month\" style=\"background:#ecfdf5;color:#047857;border-bottom-color:#10b981\">M1 · June 2026</th><th class=\"month\" style=\"background:#eff6ff;color:#1d5b8a;border-bottom-color:#1d5b8a\">M2 · July 2026</th><th class=\"month\" style=\"background:#eef2ff;color:#4338ca;border-bottom-color:#6366f1\">M3 · August 2026</th></tr></thead><tbody><tr><td class=\"row-label\">Services<span class=\"cap\">2-3 / month · new + revamp</span></td><td><div class=\"item\"><span class=\"tag new\">New</span><span class=\"u\">/drug-rehab-new-york-city</span></div><div class=\"n\">Homepage split #1 · drug rehab nyc + drug rehab in nyc 7.2K vol · pos 12 → 8</div><div class=\"item\"><span class=\"tag new\">New</span><span class=\"u\">/services/medication-assisted-treatment</span></div><div class=\"n\">MAT hub · methadone clinic harlem 138 imp pos 9.7 + 4.1K suboxone imp routed in</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/locations/harlem</span></div><div class=\"n\">1,199 imp pos 11.7 → 5 · GBP-sync schema + neighborhood specifics</div></td><td><div class=\"item\"><span class=\"tag new\">New</span><span class=\"u\">/alcohol-treatment-new-york-city</span></div><div class=\"n\">Homepage split #2 · 1.8K vol · pos 11–24 → 6</div><div class=\"item\"><span class=\"tag new\">New</span><span class=\"u\">/detox-nyc</span></div><div class=\"n\">NEW detox hub · 4,340 imp/90d on detox×NYC queries today (no page) + 880 vol DataForSEO grounded · target pos 8</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/locations/brooklyn</span></div><div class=\"n\">722 imp pos 55 → 12 · rebuild Brooklyn hub from current weak shell</div></td><td><div class=\"item\"><span class=\"tag new\">New</span><span class=\"u\">/services/dual-diagnosis</span></div><div class=\"n\">Maps #1.98 → organic capture · pos 19.9 today + DataForSEO mental-health cluster (dual diagnosis rehab nyc, ptsd-and-addiction nyc, etc.)</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/locations/bronx</span></div><div class=\"n\">239 imp pos 38 → 10 · 11 inbound from suburb network</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/</span></div><div class=\"n\">Homepage refocus on brand after commercial split absorbs queries (brand pos 5.8 → 3)</div></td></tr><tr><td class=\"row-label\">Blogs<span class=\"cap\">5 / month · refresh · title rewrite + FAQ schema + commercial routing</span></td><td><div class=\"n\" style=\"margin-bottom:.45rem\">Detox + MAT routing — commercial pull-through into new June hubs</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/what-are-the-signs-that-my-body-is-detoxing</span></div><div class=\"n\">92K imp pos 8.4 → route to /detox-nyc + MAT hub</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/flu-like-symptoms-when-alcohol-withdrawal</span></div><div class=\"n\">115K imp pos 8.8 → alcohol detox routing</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/alcohol-detox-drink</span></div><div class=\"n\">31K imp pos 9.7 → alcohol detox routing</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/suboxone-strips-vs-suboxone-pills</span></div><div class=\"n\">4.1K imp pos 19 (15.3K vol DataForSEO) → MAT hub</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/is-100-mg-of-ritalin-too-much</span></div><div class=\"n\">102K imp pos 8.4, 0.4% CTR → title + FAQ schema for CTR-lift</div></td><td><div class=\"n\" style=\"margin-bottom:.45rem\">High-impression CTR-lift batch — already-ranking, biggest leverage</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/peptide-abuse</span></div><div class=\"n\">391K imp pos 5.8, 0.4% CTR → title + FAQ schema (projected ~4× clicks)</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/happy-pills</span></div><div class=\"n\">367K imp pos 4.4, 0.5% CTR → title + FAQ</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/macrobid-alcohol</span></div><div class=\"n\">136K imp pos 5.1, 0.6% → title + FAQ</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/dopamine-deficiency</span></div><div class=\"n\">37K imp pos 9.8 → title push to top 5</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/how-to-detox-for-a-drug-test</span></div><div class=\"n\">25K imp pos 13.8 → route to /detox-nyc</div></td><td><div class=\"n\" style=\"margin-bottom:.45rem\">Long-tail + new cost-of-rehab article tied to commercial landings</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/what-is-rehab</span></div><div class=\"n\">2.4K vol pos 19 → route to PA-01/02 landings</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/hiccups-while-drinking</span></div><div class=\"n\">140K imp pos 4.8 → title + FAQ schema</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/purple-drank-ingredients</span></div><div class=\"n\">29K imp pos 11.2 → push to top 10</div><div class=\"item\"><span class=\"tag refresh\">Refresh</span><span class=\"u\">/blog/effects-of-12-beers-a-day</span></div><div class=\"n\">46K imp pos 5.4 → title + FAQ</div><div class=\"item\"><span class=\"tag new\">New</span><span class=\"u\">/blog/how-much-does-rehab-cost-in-nyc</span></div><div class=\"n\">NEW article · 2.6K imp/90d insurance-cost cluster (aetna rehab 297 imp pos 35; how much rehab cost 394 imp pos 40)</div></td></tr><tr><td class=\"row-label\">Suburbs<span class=\"cap\">3 / month · depth lift + internal links</span></td><td><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/upper-east-side</span></div><div class=\"n\">1.3K imp pos 14.6 → 10 · depth lift 1087 → 2200 words (13.2K vol cluster)</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/central-harlem-ny</span></div><div class=\"n\">7.1K imp pos 6.8 → 5 · light push + absorbs Harlem 3-way 301s</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/upper-west-side</span></div><div class=\"n\">787 imp pos 25 → 15 · absorbs Riverside cannibal 301s</div></td><td><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/washington-heights-ny</span></div><div class=\"n\">553 imp pos 15.9 → 10</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/rehab-center-in-west-bronx-ny</span></div><div class=\"n\">1.4K imp pos 19 → 12</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/holistic-recovery-rehab-center-in-palisades-park-nj</span></div><div class=\"n\">1.6K imp pos 29 → 18 · NJ market entry</div></td><td><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/rehab-center-in-cliffside-park</span></div><div class=\"n\">1.2K imp pos 16 → 10 · NJ</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/south-bronx</span></div><div class=\"n\">400 imp pos 38 → 18 · feeds /locations/bronx hub</div><div class=\"item\"><span class=\"tag revamp\">Revamp</span><span class=\"u\">/suburb/mott-haven</span></div><div class=\"n\">239 imp pos 13.6 → 8 · feeds Bronx hub</div></td></tr><tr><td class=\"row-label\">On-page<span class=\"cap\">per need · redirects · internal links · GBP sync</span></td><td><div class=\"item\"><span class=\"tag redirect\">301</span><span style=\"color:#0b1220;font-weight:600\">4 × 301</span></div><div class=\"n\">Harlem 3-way: /suburb/{west,east}-harlem-ny → /suburb/central-harlem-ny; Hamilton Hts + Morningside Hts cannibals → kw-stuffed winners (PA-16/17/18/19)</div><div class=\"item\"><span class=\"tag fix\">GBP / fix</span><span style=\"color:#0b1220;font-weight:600\">GBP wiring</span></div><div class=\"n\">Fix “Astoria, OR” service-area typo; add MAT + dual-diagnosis to Services list; +8 differentiated Products</div><div class=\"n\" style=\"margin-top:.4rem\">Internal links wired into new June hubs (IL-01 → IL-18, IL-37–41). MedicalBusiness schema on /locations/harlem.</div></td><td><div class=\"item\"><span class=\"tag redirect\">301</span><span style=\"color:#0b1220;font-weight:600\">2 × 301</span></div><div class=\"n\">Riverside cannibals → /suburb/upper-west-side (PA-20/21)</div><div class=\"item\"><span class=\"tag fix\">GBP / fix</span><span style=\"color:#0b1220;font-weight:600\">GBP wiring</span></div><div class=\"n\">30+ photos across 6 categories; populate 8 empty “From the Business” attributes</div><div class=\"n\" style=\"margin-top:.4rem\">Internal links Brooklyn hub + /detox-nyc → 4 commercial landings; FAQPage schema on all M1+M2 blog refreshes.</div></td><td><div class=\"item\"><span class=\"tag redirect\">301</span><span style=\"color:#0b1220;font-weight:600\">2 × 301</span></div><div class=\"n\">Mount Eden cannibals → /locations/bronx (PA-22/23, post-Bronx-hub ship)</div><div class=\"item\"><span class=\"tag fix\">GBP / fix</span><span style=\"color:#0b1220;font-weight:600\">GBP wiring</span></div><div class=\"n\">Review-prompt expansion brief; Bronx pin Services sync (post-revamp)</div><div class=\"n\" style=\"margin-top:.4rem\">Internal-link finalization across Bronx suburb network (IL-26 → IL-36). Service + FAQPage schema across /services/* pages.</div></td></tr></tbody></table></div>"
+      }
+    ],
+    "maps": {
+      "enabled": true,
+      "title": "Maps Movement · Top Keywords",
+      "window": "Jan 27 → Apr 22, 2026 · 8 tracked searches",
+      "headers": [
+        "Search",
+        "Avg position",
+        "Top-3 map spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "t": "dual diagnosis treatment centers nyc"
+            },
+            {
+              "t": "<span class=\"arrow-up\">2.18 → <strong>1.98</strong></span>"
+            },
+            {
+              "t": "95 → <strong>105</strong>"
+            },
+            {
+              "t": "+10",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "inpatient drug rehab nyc"
+            },
+            {
+              "t": "<span class=\"arrow-up\">3.80 → <strong>3.42</strong></span>"
+            },
+            {
+              "t": "58 → <strong>72</strong>"
+            },
+            {
+              "t": "+14",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "inpatient alcohol rehab nyc"
+            },
+            {
+              "t": "<span class=\"arrow-up\">3.75 → <strong>3.39</strong></span>"
+            },
+            {
+              "t": "60 → <strong>70</strong>"
+            },
+            {
+              "t": "+10",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab nyc"
+            },
+            {
+              "t": "<span class=\"arrow-up\">5.16 → <strong>3.79</strong></span>"
+            },
+            {
+              "t": "22 → <strong>60</strong>"
+            },
+            {
+              "t": "+38",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "addiction rehab ny"
+            },
+            {
+              "t": "<span class=\"arrow-up\">4.09 → <strong>3.56</strong></span>"
+            },
+            {
+              "t": "35 → <strong>52</strong>"
+            },
+            {
+              "t": "+17",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "t": "alcohol rehab near me"
+            },
+            {
+              "t": "<span class=\"arrow-up\">6.68 → <strong>5.57</strong></span>"
+            },
+            {
+              "t": "12 → <strong>28</strong>"
+            },
+            {
+              "t": "+16",
+              "c": "pos"
+            }
+          ]
+        }
+      ],
+      "note_html": null
+    },
+    "competitors": {
+      "enabled": true,
+      "title": "Competitor Movement · Maps",
+      "window": "Across 8 tracked searches · Jan 27 → Apr 22, 2026",
+      "headers": [
+        "Business",
+        "Avg rank",
+        "Top-3 spots",
+        "Change"
+      ],
+      "rows": [
+        {
+          "me": true,
+          "cells": [
+            {
+              "t": "Elev8 Recovery (you)"
+            },
+            {
+              "t": "4.1"
+            },
+            {
+              "t": "425"
+            },
+            {
+              "t": "+105",
+              "c": "pos"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Ascendant Intensive Outpatient"
+            },
+            {
+              "t": "4.8"
+            },
+            {
+              "t": "380"
+            },
+            {
+              "t": "+88",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Wellbridge Drug & Alcohol Rehab"
+            },
+            {
+              "t": "5.2"
+            },
+            {
+              "t": "285"
+            },
+            {
+              "t": "+12",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Odyssey House George Rosenfeld"
+            },
+            {
+              "t": "6.9"
+            },
+            {
+              "t": "245"
+            },
+            {
+              "t": "+52",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "The Bridge NYC Sober Living"
+            },
+            {
+              "t": "7.5"
+            },
+            {
+              "t": "165"
+            },
+            {
+              "t": "+48",
+              "c": "neg"
+            }
+          ]
+        },
+        {
+          "me": false,
+          "cells": [
+            {
+              "t": "Hazelden Betty Ford Foundation"
+            },
+            {
+              "t": "9.1"
+            },
+            {
+              "t": "130"
+            },
+            {
+              "t": "+28",
+              "c": "neg"
+            }
+          ]
+        }
+      ],
+      "note_html": "You're <strong>#1 on Maps</strong> across these searches (425 top-3 cells, +105) and gained more than any competitor; Ascendant is the nearest challenger (+88). Lower avg rank is better."
+    }
+  }
+}
